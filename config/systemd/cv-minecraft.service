@@ -5,6 +5,7 @@ After=network.target
 [Service]
 User=minecraft
 Group=minecraft
+WorkingDirectory=/home/minecraft/catgirlvillage
 ExecStart=/home/minecraft/catgirlvillage/run.sh
 Restart=on-failure
 
