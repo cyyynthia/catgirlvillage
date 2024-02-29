@@ -2,8 +2,7 @@
 Description=Catgirl Village Backup
 
 [Service]
-User=minecraft
-Group=minecraft
 EnvironmentFile=/etc/ovh_backup_credentials
 EnvironmentFile=/etc/rcon_credentials
-ExecStart=cv-backup-headsup
+WorkingDirectory=/root/catgirlvillage/scripts
+ExecStart=/root/catgirlvillage/scripts/backup_with_headsup.sh

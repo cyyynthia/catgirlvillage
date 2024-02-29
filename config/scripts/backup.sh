@@ -9,9 +9,6 @@
 # Shutdown Minecraft server
 systemctl stop cv-minecraft
 
-# Go to Minecraft Server folder
-cd ~/catgirlvillage
-
 # Create TAR archive
 tar --create --zstd --file /var/cv_world_backup.tar.zst world ops.json whitelist.json banned-ips.json banned-players.json
 
