@@ -4,5 +4,5 @@ Description=Catgirl Village Backup
 [Service]
 EnvironmentFile=/etc/ovh_backup_credentials
 EnvironmentFile=/etc/rcon_credentials
-WorkingDirectory=/root/catgirlvillage/scripts
-ExecStart=/root/catgirlvillage/scripts/backup_with_headsup.sh
+WorkingDirectory=/root/catgirlvillage/config/scripts
+ExecStart=/root/catgirlvillage/config/scripts/backup_with_headsup.sh
