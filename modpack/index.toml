@@ -577,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/quad.pw.toml"
-hash = "3a06f050f685689bff191bea17fa8dc279b1da73c7d6ed0c2abb0e60c89b8297"
+hash = "3b4a6ea0f774ad8fc4b3f8a44c0a0f0941218751c466dd11a279566a17c62715"
 metafile = true
 
 [[files]]

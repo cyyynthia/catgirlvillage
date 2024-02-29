@@ -200,15 +200,15 @@ Below is the detailed list of the mods included in the modpack.
 <!-- GENERATED MOD LIST END -->
 
 ### Resource packs
-[Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves) - Bushy leaves! Makes leaf blocks much better
-[Unique Enchanted Books](https://modrinth.com/resourcepack/unique-enchanted-books) - Different textures for each enchanted book
-[Axolotl Bucket Variants](https://modrinth.com/resourcepack/axolotl-bucket-variants) - Shows the variant of axolotl in buckets
-[Cherry Background](https://modrinth.com/resourcepack/cherry-background) - Changes the menu background to a beautiful cherry blossom image
-[Alternative Rain Sounds](https://www.curseforge.com/minecraft/texture-packs/alternative-rain-sounds) - Revamped sounds for rain and thunder
-[Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode) - A dark-theme for Minecraft's GUI (*not enabled by default*)
+- [Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves) - Bushy leaves! Makes leaf blocks much better
+- [Unique Enchanted Books](https://modrinth.com/resourcepack/unique-enchanted-books) - Different textures for each enchanted book
+- [Axolotl Bucket Variants](https://modrinth.com/resourcepack/axolotl-bucket-variants) - Shows the variant of axolotl in buckets
+- [Cherry Background](https://modrinth.com/resourcepack/cherry-background) - Changes the menu background to a beautiful cherry blossom image
+- [Alternative Rain Sounds](https://www.curseforge.com/minecraft/texture-packs/alternative-rain-sounds) - Revamped sounds for rain and thunder
+- [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode) - A dark-theme for Minecraft's GUI (*not enabled by default*)
 
 ### Shader packs
-[Complementary Shaders - Unbound](https://modrinth.com/shader/complementary-unbound) comes pre-installed, but is not
+- [Complementary Shaders - Unbound](https://modrinth.com/shader/complementary-unbound) comes pre-installed, but is not
 enabled.
 
 ### Configuration

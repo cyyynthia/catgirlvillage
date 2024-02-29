@@ -1,13 +1,13 @@
 name = "Quad"
-filename = "Quad-1.1.0+1.20.4-Forge.jar"
+filename = "Quad-1.1.1+1.20.4-Forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7jzrCiK0/versions/xaunQvnM/Quad-1.1.0%2B1.20.4-Forge.jar"
+url = "https://cdn.modrinth.com/data/7jzrCiK0/versions/fFNeeAQa/Quad-1.1.1%2B1.20.4-Forge.jar"
 hash-format = "sha1"
-hash = "eef3d3bdc6fa11d156b368825f1f60865c451581"
+hash = "bcd1d76a05a86e4159a712962479f031186619b3"
 
 [update]
 [update.modrinth]
 mod-id = "7jzrCiK0"
-version = "xaunQvnM"
+version = "fFNeeAQa"
