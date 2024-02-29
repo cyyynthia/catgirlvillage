@@ -10,6 +10,7 @@
 systemctl stop cv-minecraft
 
 # Create TAR archive
+cd /home/minecraft/catgirlvillage
 tar --create --zstd --file /var/cv_world_backup.tar.zst world ops.json whitelist.json banned-ips.json banned-players.json
 
 # Restart Minecraft server
