@@ -12,7 +12,7 @@ sleep 5m
 mcrcon -p "$RCON_PASSWORD" 'tellraw @a [{"text":"\u273f","color":"dark_red"},{"text":" Catgirl Village","color":"light_purple"},{"text":": Server restart in 5 minutes","color":"white"}]'
 sleep 4m
 
-mcrcon -p "$RCON_PASSWORD" 'tellraw @a [{"text":"\u273f","color":"dark_red"},{"text":" Catgirl Village","color":"light_purple"},{"text":": ","color":"white",}{"text":"Server restart in 1 minute","color":"gold"}]'
+mcrcon -p "$RCON_PASSWORD" 'tellraw @a [{"text":"\u273f","color":"dark_red"},{"text":" Catgirl Village","color":"light_purple"},{"text":": ","color":"white"},{"text":"Server restart in 1 minute","color":"gold"}]'
 sleep 30s
 
 mcrcon -p "$RCON_PASSWORD" 'tellraw @a [{"text":"\u273f","color":"dark_red"},{"text":" Catgirl Village","color":"light_purple"},{"text":": ","color":"white"},{"text":"Server restart in 30 seconds","color":"gold"}]'
