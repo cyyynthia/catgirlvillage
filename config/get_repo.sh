@@ -8,5 +8,7 @@
 
 # Use sparse index to only pull config-related stuff
 git clone --depth 1 --branch mistress --no-checkout https://github.com/cyyynthia/catgirlvillage
+cd catgirlvillage
+
 git sparse-checkout set config LICENSE README.md
 git checkout mistress

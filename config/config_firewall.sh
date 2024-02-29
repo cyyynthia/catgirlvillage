@@ -1,3 +1,4 @@
+#!/usr/bin/env sh
 #! Copyright (c) Cynthia Rey, All rights reserved.
 #! SPDX-License-Identifier: MPL-2.0
 #!
