@@ -5,7 +5,7 @@ After=network.target
 [Service]
 User=minecraft
 Group=minecraft
-ExecStart=%h/catgirlvillage/run.sh
+ExecStart=/home/minecraft/catgirlvillage/run.sh
 Restart=on-failure
 
 [Install]
