@@ -237,11 +237,11 @@ enabled.
 
 ## Legal notice
 This modpack is licensed under the Mozilla Public License version 2.0. This exclusively concerns:
-- Documentation, configuration, scripts, and any other software or document specific to this modpack
+- Documentation, configuration, scripts, and any other software or otherwise original creation specific to this modpack
 - The "curation work" put into this modpack
 
 All mods, resource packs, data packs, and shader packs included in this modpack remain the property of their
-respective owners.
+respective owners and are redistributed in compliance with applicable terms.
 
 ### Redistribution permissions
 <!-- GENERATED PERMISSION LIST START -->
@@ -256,7 +256,7 @@ respective owners.
 - https://www.curseforge.com/minecraft/mc-mods/sophisticated-core: Compatible license (GPL 3.0)
 <!-- GENERATED PERMISSION LIST END -->
 - https://github.com/webbukkit/DynmapBlockScan: Compatible license (Apache 2.0)
-  - The repository does not contain explicit licensing information, however all Forge versions of the mod [specify Apache 2.0](https://github.com/webbukkit/DynmapBlockScan/blob/master/forge-1.20/src/main/resources/META-INF/mods.toml#L4) as their license
+  - The repository does not contain explicit licensing information, however all Forge versions of the mod [specify Apache 2.0 in mods.toml](https://github.com/webbukkit/DynmapBlockScan/blob/master/forge-1.20/src/main/resources/META-INF/mods.toml#L4)
 - https://www.curseforge.com/minecraft/texture-packs/alternative-rain-sounds:
   - [Explicit permission from the Curseforge page](https://www.curseforge.com/minecraft/texture-packs/alternative-rain-sounds) ([archived](https://web.archive.org/web/20240211063857/https://www.curseforge.com/minecraft/texture-packs/alternative-rain-sounds))
   - Audio files licensed under compatible licenses (Pixabay Content License, CC-BY-4.0)
@@ -268,9 +268,9 @@ You are free to redistribute this modpack and its related software, original or 
 comply with the terms of the Mozilla Public License version 2.0.
 
 YOU MAY BE SUBJECT TO ADDITIONAL REDISTRIBUTION REQUIREMENTS. IT IS YOUR SOLE RESPONSIBILITY TO ENSURE COMPLIANCE WITH
-ALL THE APPLICABLE TERMS OF THE MODS OR ANY CONTENT YOU REDISTRIBUTE. IT IS ALSO YOUR SOLE RESPONSIBILITY TO ENSURE THE
-ACCURACY OF THE CONTENTS IN THIS "LEGAL NOTICE" SECTION. THE ORIGINAL MODPACK CURATOR AND CONTRIBUTORS CANNOT BE HELD
-RESPONSIBLE FOR ANY THIRD-PARTY REDISTRIBUTION OF THIS MODPACK, ORIGINAL OR MODIFIED.
+ALL THE APPLICABLE TERMS OF THE MODS OR ANY CONTENT YOU REDISTRIBUTE. IT IS ALSO YOUR SOLE RESPONSIBILITY, WITHIN YOUR
+REDISTRIBUTION, TO ENSURE THE ACCURACY OF THE CONTENTS IN THIS "LEGAL NOTICE" SECTION. THE ORIGINAL MODPACK CURATOR AND
+CONTRIBUTORS CANNOT BE HELD RESPONSIBLE FOR ANY THIRD-PARTY REDISTRIBUTION OF THIS MODPACK, ORIGINAL OR MODIFIED.
 
 NONE OF THE CONTENTS IN THIS "LEGAL NOTICE" SECTION CONSTITUTE, OR INTEND TO CONSTITUTE, LEGAL ADVICE. IT DOES NOT
 SUBSTITUTE PROFESSIONAL COUNSELING FROM A LICENSED LAWYER. PLEASE CONSULT WITH A LAWYER IF YOU NEED LEGAL ASSISTANCE.
