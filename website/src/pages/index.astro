@@ -1,0 +1,29 @@
+---
+/*!
+ * Copyright (c) Cynthia Rey, All rights reserved.
+ * SPDX-License-Identifier: MPL-2.0
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ */
+
+import GlobalLayout from '../layouts/GlobalLayout.astro'
+import PrivateWarning from '../components/PrivateWarning.astro'
+---
+<GlobalLayout title="Catgirl Village">
+	<div class="catch-line">
+		Welcome, traveller, to a place some call home. Surrounded by breathtaking landscapes and wildlife,
+		you can embark on a journey within these lands waiting to be explored and cherished.
+	</div>
+	<PrivateWarning />
+</GlobalLayout>
+
+<style>
+	.catch-line {
+		font-size: 1.2rem;
+		font-style: italic;
+		margin-bottom: 1.5rem;
+		text-align: center;
+	}
+</style>

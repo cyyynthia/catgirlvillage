@@ -1,0 +1,858 @@
+[additional-lanterns]
+name = "Additional Lanterns"
+category = "decoration"
+description = "Many new lanterns with different colors and materials"
+url = "https://modrinth.com/mod/additional-lanterns"
+
+[advancement-frames]
+name = "Advancement Frames"
+category = "decoration"
+description = "Nice looking Plaques to display your Advancements"
+url = "https://modrinth.com/mod/advancement-frames"
+
+[alternate-current]
+name = "Alternate Current"
+category = "performance"
+description = "Efficient implementation of redstone dust"
+url = "https://modrinth.com/mod/alternate-current"
+
+[ambientsounds]
+name = "AmbientSounds"
+category = "environment"
+description = "Adds a rich ambience to the world"
+url = "https://modrinth.com/mod/ambientsounds"
+
+[amendments]
+name = "amendments"
+category = "decoration"
+description = "Many changes to vanilla blocks (formerly part of Supplementaries)"
+url = "https://modrinth.com/mod/amendments"
+
+[appleskin]
+name = "AppleSkin"
+category = "utilities"
+description = "Food/hunger-related HUD improvements"
+url = "https://modrinth.com/mod/appleskin"
+
+[architectury-api]
+name = "Architectury API"
+category = "api"
+url = "https://modrinth.com/mod/architectury-api"
+
+[attributefix]
+name = "AttributeFix"
+category = "performance"
+description = "Removes certain limits on the internal attribute system"
+url = "https://modrinth.com/mod/attributefix"
+
+[azurelib]
+name = "AzureLib"
+category = "api"
+url = "https://modrinth.com/mod/azurelib"
+
+[badpackets]
+name = "bad packets"
+category = "api"
+url = "https://modrinth.com/mod/badpackets"
+
+[beautify]
+name = "Beautify!"
+category = "decoration"
+description = "Adds lots of vanilla-styled ways to spice up your builds"
+url = "https://modrinth.com/mod/beautify"
+
+[bellsandwhistles]
+name = "Create: Bells & Whistles"
+category = "create"
+description = "Additions and adornments for the modern Create engineer"
+url = "https://modrinth.com/mod/bellsandwhistles"
+
+[better-archeology]
+name = "Better Archeology"
+category = "environment"
+description = "Discover artifacts & fossils by encountering new structures"
+url = "https://modrinth.com/mod/better-archeology"
+
+[bookshelf-lib]
+name = "Bookshelf"
+category = "api"
+url = "https://modrinth.com/mod/bookshelf-lib"
+
+[camera-mod]
+name = "Camera Mod"
+category = "utilities"
+description = "A camera that takes real images of the game, with frames"
+url = "https://modrinth.com/mod/camera-mod"
+
+[canary]
+name = "Canary"
+category = "performance"
+description = "General purpose optimization mod (Lithium fork)"
+url = "https://modrinth.com/mod/canary"
+
+[chefs-delight]
+name = "Chef's Delight"
+category = "villagers"
+description = "Farmer's Delight addon adding 2 new professions to villagers"
+url = "https://modrinth.com/mod/chefs-delight"
+
+[chicken-nerf-reforged]
+name = "Chicken Nerf Reforged"
+category = "nerfs"
+description = "Chickens don't lay eggs randomly. Breeding produces a random number of eggs"
+url = "https://modrinth.com/mod/chicken-nerf-reforged"
+
+[citadel]
+name = "Citadel"
+category = "api"
+url = "https://modrinth.com/mod/citadel"
+
+[collective]
+name = "Collective"
+category = "api"
+url = "https://modrinth.com/mod/collective"
+
+[comforts]
+name = "Comforts"
+category = "decoration"
+description = "Adds sleeping bags for portability without setting new spawns & more"
+url = "https://modrinth.com/mod/comforts"
+
+[connected-glass]
+name = "Connected Glass"
+category = "api"
+url = "https://modrinth.com/mod/connected-glass"
+
+[controlling]
+name = "Controlling"
+category = "utilities"
+description = "Adds a search bar to the Key-Bindings menu"
+url = "https://modrinth.com/mod/controlling"
+
+[corn-delight]
+name = "Corn Delight"
+category = "nature"
+description = "Corn addon of Farmer's Delight"
+url = "https://modrinth.com/mod/corn-delight"
+
+[corpse]
+name = "Corpse"
+category = "environment"
+description = "Never lose your items again"
+url = "https://modrinth.com/mod/corpse"
+
+[cosmetic-armor-reworked]
+name = "Cosmetic Armor Reworked"
+category = "decoration"
+description = "Allows displaying a different armor than the one worn (Cosmetic Armor fork)"
+url = "https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked"
+permission = "Compatible license (MMPL 1.0.1)"
+
+[crabbers-delight]
+name = "Crabber's Delight"
+category = "nature"
+description = "Introduces more seafood into the game, including crabs, shrimps, and clams"
+url = "https://modrinth.com/mod/crabbers-delight"
+
+[crate-delight]
+name = "Crate Delight"
+category = "nature"
+description = "More seafood in Farmer's Delight"
+url = "https://modrinth.com/mod/crate-delight"
+
+[create]
+name = "Create"
+category = "create"
+description = "*Do we need to present Create still?* [This is Create](https://www.youtube.com/watch?v=rR8W-f9YhYA)"
+url = "https://modrinth.com/mod/create"
+
+[create-deco]
+name = "Create Deco"
+category = "decoration"
+description = "Industrial decoration themed around the aesthetics of the Create mod"
+url = "https://modrinth.com/mod/create-deco"
+
+[create-steam-n-rails]
+name = "Create: Steam 'n' Rails"
+category = "create"
+description = "Adding depth to Create's rail network & steam system"
+url = "https://modrinth.com/mod/create-steam-n-rails"
+
+[create-structures]
+name = "Create: Structures"
+category = "worldgen"
+description = "Create add-on adding natural structures containing early-game Create items"
+url = "https://modrinth.com/mod/create-structures"
+
+[create-track-map]
+name = "Create Track Map"
+category = "server"
+description = "A web-based realtime track map of the world's Create train system."
+url = "https://modrinth.com/mod/create-track-map"
+
+[creativecore]
+name = "CreativeCore"
+category = "api"
+url = "https://modrinth.com/mod/creativecore"
+
+[creeper-overhaul]
+name = "Creeper Overhaul"
+category = "mobs"
+description = "Overhauls the vanilla creepers"
+url = "https://modrinth.com/mod/creeper-overhaul"
+
+[cristel-lib]
+name = "Cristel Lib"
+category = "api"
+url = "https://modrinth.com/mod/cristel-lib"
+
+[croptopia]
+name = "Croptopia"
+category = "nature"
+description = "A lot of new crops"
+url = "https://www.curseforge.com/minecraft/mc-mods/croptopia"
+permission = "Compatible license (MIT)"
+
+[ct-overhaul-village]
+name = "ChoiceTheorem's Overhauled Village"
+category = "worldgen"
+description = "Enhances and creates new villages and pillager outposts"
+url = "https://modrinth.com/mod/ct-overhaul-village"
+
+[ctov-croptopia-compat]
+name = "CTOV - Croptopia compat"
+category = "worldgen"
+description = "Compatibility add-on for the Croptopia mod and CTOV"
+url = "https://modrinth.com/mod/ctov-croptopia-compat"
+
+[cull-less-leaves-reforged]
+name = "Cull Less Leaves Reforged"
+category = "performance"
+description = "Render less leaves without sacrificing quality (Cull Less Leaves fork)"
+url = "https://modrinth.com/mod/cull-less-leaves-reforged"
+
+[curios]
+name = "Curios API"
+category = "utilities"
+description = "Adds new slots to the inventory"
+url = "https://modrinth.com/mod/curios"
+
+[do-api]
+name = "Let's Do: API"
+category = "api"
+url = "https://modrinth.com/mod/do-api"
+
+[domestication-innovation]
+name = "Domestication Innovation"
+category = "mobs"
+description = "Improves upon and compliments tamable mobs, both from vanilla and other mods"
+url = "https://modrinth.com/mod/domestication-innovation"
+
+[double-doors]
+name = "Double Doors"
+category = "decoration"
+description = "Multiple identical double doors, trapdoors and fence gates can be opened simultaneously"
+url = "https://modrinth.com/mod/double-doors"
+
+[duckling]
+name = "Duckling"
+category = "mobs"
+description = "Liven your world with ducks"
+url = "https://modrinth.com/mod/duckling"
+
+[dynmap]
+name = "Dynmap®"
+category = "server"
+description = "A Google Maps-like map that can be viewed in a browser"
+url = "https://modrinth.com/plugin/dynmap"
+
+[dynmapblockscan]
+name = "DynmapBlockScan"
+category = "server"
+description = "Mod compatibility add-on for Dynmap®"
+url = "https://github.com/webbukkit/DynmapBlockScan"
+
+[embeddium]
+name = "Embeddium"
+category = "performance"
+description = "Efficient rendering engine (Sodium fork)"
+url = "https://modrinth.com/mod/embeddium"
+
+[emotecraft]
+name = "Emotecraft"
+category = "decoration"
+description = "Adds emotes to the game, letting you express yourself through your ingame character"
+url = "https://modrinth.com/mod/emotecraft"
+
+[enchantment-descriptions]
+name = "Enchantment Descriptions"
+category = "utilities"
+description = "Provides a way to get enchantment descriptions from enchanted books"
+url = "https://modrinth.com/mod/enchantment-descriptions"
+
+[enderman-overhaul]
+name = "Enderman Overhaul"
+category = "mobs"
+description = "Adds over 20 new endermen variants, each with their own sounds, models, and animations"
+url = "https://modrinth.com/mod/enderman-overhaul"
+
+[entityculling]
+name = "Entity Culling"
+category = "performance"
+description = "Skips rendering entities that are not visible"
+url = "https://modrinth.com/mod/entityculling"
+
+[epherolib]
+name = "EpheroLib"
+category = "api"
+url = "https://www.curseforge.com/minecraft/mc-mods/epherolib"
+
+[every-compat]
+name = "Every Compat (Wood Good)"
+category = "decoration"
+description = "Universal wood compatibility"
+url = "https://modrinth.com/mod/every-compat"
+
+[fallingleavesforge]
+name = "Falling Leaves"
+category = "environment"
+description = "Adds a neat little particle effect to leaf blocks"
+url = "https://modrinth.com/mod/fallingleavesforge"
+
+[farmers-delight]
+name = "Farmer's Delight"
+category = "nature"
+description = "A cozy expansion to farming and cooking"
+url = "https://modrinth.com/mod/farmers-delight"
+
+[fastfurnace]
+name = "FastFurnace"
+category = "performance"
+description = "Improves performance of the furnace & variants"
+url = "https://www.curseforge.com/minecraft/mc-mods/fastfurnace"
+permission = "Compatible license (MIT)"
+
+[fastsuite]
+name = "FastSuite"
+category = "performance"
+description = "Improves performance of internal crafting recipe matching"
+url = "https://www.curseforge.com/minecraft/mc-mods/fastsuite"
+permission = "Compatible license (MIT)"
+
+[fastworkbench]
+name = "FastWorkbench"
+category = "performance"
+description = "Improves performance of crafting-related functions"
+url = "https://www.curseforge.com/minecraft/mc-mods/fastworkbench"
+permission = "Compatible license (MIT)"
+
+[female-gender]
+name = "Wildfire's Female Gender Mod"
+category = "decoration"
+description = "Extra player model customization options, including a unique feature that adds a personalized touch to your avatar"
+url = "https://modrinth.com/mod/female-gender"
+
+[ferrite-core]
+name = "FerriteCore"
+category = "performance"
+description = "Memory usage optimizations"
+url = "https://modrinth.com/mod/ferrite-core"
+
+[forge-cit]
+name = "Forge CIT"
+category = "api"
+url = "https://www.curseforge.com/minecraft/mc-mods/forge-cit"
+
+[friends-and-foes-forge]
+name = "Friends & Foes"
+category = "mobs"
+description = "Adds outvoted and forgotten mobs from the mob votes in a believable vanilla plus style"
+url = "https://modrinth.com/mod/friends-and-foes-forge"
+
+[fusion-connected-textures]
+name = "Fusion (Connected Textures)"
+category = "api"
+url = "https://modrinth.com/mod/fusion-connected-textures"
+
+[geckolib]
+name = "Geckolib"
+category = "api"
+url = "https://modrinth.com/mod/geckolib"
+
+[guard-villagers]
+name = "Guard Villagers"
+category = "villagers"
+description = "Adds guards and some villager AI changes improving their collaboration"
+url = "https://modrinth.com/mod/guard-villagers"
+
+[ice-boat-nerf-reforged]
+name = "Ice Boat Nerf - Reforged"
+category = "nerfs"
+description = "Stop boats from gliding at Mach 30 on ice"
+url = "https://www.curseforge.com/minecraft/mc-mods/ice-boat-nerf-reforged"
+permission = "Compatible license (MIT)"
+
+[immersive-weathering]
+name = "Immersive Weathering"
+category = "environment"
+description = "An abundance of new natural systems to make your world feel more alive than ever."
+url = "https://modrinth.com/mod/immersive-weathering"
+
+[interiors]
+name = "Create: Interiors"
+category = "create"
+description = "A complement to the Create mod that adds new furniture"
+url = "https://modrinth.com/mod/interiors"
+
+[jei]
+name = "Just Enough Items"
+category = "utilities"
+description = "Item and recipe viewer"
+url = "https://modrinth.com/mod/jei"
+
+[just-more-cakes]
+name = "Just More Cakes!"
+category = "decoration"
+description = "Adds 30 new flavors of cake along with new improvements and mechanics for a better cake experience"
+url = "https://modrinth.com/mod/just-more-cakes"
+
+[just-zoom]
+name = "Just Zoom"
+category = "utilities"
+description = "Simple zoom mod with mouse wheel support to zoom in and out further"
+url = "https://modrinth.com/mod/just-zoom"
+
+[kiwi-boi]
+name = "Kiwi Boi"
+category = "mobs"
+description = "Adds kiwi birds to the game"
+url = "https://modrinth.com/mod/kiwi-boi"
+
+[konkrete]
+name = "Konkrete"
+category = "api"
+url = "https://modrinth.com/mod/konkrete"
+
+[kotlin-for-forge]
+name = "Kotlin for Forge"
+category = "api"
+url = "https://modrinth.com/mod/kotlin-for-forge"
+
+[krypton-reforged]
+name = "Krypton Reforged"
+category = "performance"
+description = "Improves networking stack performance (Krypton fork)"
+url = "https://www.curseforge.com/minecraft/mc-mods/krypton-reforged"
+permission = "Compatible license (MIT)"
+
+[libipn]
+name = "libIPN"
+category = "api"
+url = "https://modrinth.com/mod/libipn"
+
+[lithostitched]
+name = "Lithostitched"
+category = "api"
+url = "https://modrinth.com/mod/lithostitched"
+
+[macaws-doors]
+name = "Macaw's Doors"
+category = "decoration"
+description = "Adds vanilla doors with every wood color and new unique doors"
+url = "https://modrinth.com/mod/macaws-doors"
+
+[macaws-fences-and-walls]
+name = "Macaw's Fences and Walls"
+category = "decoration"
+description = "Adds new vanilla styled fences, walls and gates"
+url = "https://modrinth.com/mod/macaws-fences-and-walls"
+
+[macaws-furniture]
+name = "Macaw's Furniture"
+category = "decoration"
+description = "Adds a lot of furniture to the game"
+url = "https://modrinth.com/mod/macaws-furniture"
+
+[macaws-lights-and-lamps]
+name = "Macaw's Lights and Lamps"
+category = "decoration"
+description = "Adds vanilla styled lamps, torches, streetlamps, paper lamps, wall lamps, slabs..."
+url = "https://modrinth.com/mod/macaws-lights-and-lamps"
+
+[macaws-trapdoors]
+name = "Macaw's Trapdoors"
+category = "decoration"
+description = "Adds vanila trapdoors in every plank variation, plus some new trapdoors"
+url = "https://modrinth.com/mod/macaws-trapdoors"
+
+[macaws-windows]
+name = "Macaw's Windows"
+category = "decoration"
+description = "Adds lots of windows & related props to the game"
+url = "https://modrinth.com/mod/macaws-windows"
+
+[measurements]
+name = "Measurements"
+category = "utilities"
+description = "Allows measuring distance using a tape measure"
+url = "https://modrinth.com/mod/measurements"
+
+[mmlib]
+name = "Mysterious Mountain Lib"
+category = "api"
+url = "https://modrinth.com/mod/mmlib"
+
+[mob-catalog]
+name = "Mob Catalog"
+category = "mobs"
+description = "Adds new (5) mobs to the game"
+url = "https://modrinth.com/mod/mob-catalog"
+
+[modelfix]
+name = "Model Gap Fix"
+category = "performance"
+description = "Fixes gaps in block models and item models"
+url = "https://modrinth.com/mod/modelfix"
+
+[moonlight]
+name = "Moonlight Lib"
+category = "api"
+url = "https://modrinth.com/mod/moonlight"
+
+[more-bookshelves-mod]
+name = "More Bookshelves Mod"
+category = "decoration"
+description = "Bookshelves for every wood in the game"
+url = "https://modrinth.com/mod/more-bookshelves-mod"
+
+[more-chest-variants-lieonlion]
+name = "More Chests Variants (MCV)"
+category = "decoration"
+description = "Chests for all the different woods"
+url = "https://modrinth.com/mod/more-chest-variants-lieonlion"
+
+[more-crafting-tables]
+name = "More Crafting Tables!"
+category = "decoration"
+description = "Make your crafting table no longer ruin your decoration"
+url = "https://modrinth.com/mod/more-crafting-tables"
+
+[more-mob-variants]
+name = "More Mob Variants"
+category = "mobs"
+description = "Adds new variants to existing mobs"
+url = "https://modrinth.com/mod/more-mob-variants"
+
+[more-music-discs]
+name = "More Music Discs"
+category = "decoration"
+description = "Adds more music discs"
+url = "https://modrinth.com/mod/more-music-discs"
+
+[music-maker-mod]
+name = "Music Maker Mod"
+category = "decoration"
+description = "Adds music sheets, instruments and other devices to the game for creating and playing music"
+url = "https://modrinth.com/mod/music-maker-mod"
+
+[musical-foxes]
+name = "Musical Foxes"
+category = "mobs"
+description = "Lets foxes play goat horns"
+url = "https://modrinth.com/mod/musical-foxes"
+
+[naturalist]
+name = "Naturalist"
+category = "mobs"
+description = "Adds new immersive wildlife with realistic behavior"
+url = "https://modrinth.com/mod/naturalist"
+
+[no-chat-reports]
+name = "No Chat Reports"
+category = "performance"
+description = "Disables chat reporting & telemetry"
+url = "https://modrinth.com/mod/no-chat-reports"
+
+[no-elytra-firework-boost]
+name = "No Elytra Firework Boost"
+category = "nerfs"
+description = "Disables elytra firework boosting"
+url = "https://modrinth.com/mod/no-elytra-firework-boost"
+
+[nyfs-spiders]
+name = "Nyf's Spiders"
+category = "mobs"
+description = "Modifies spiders to be more realistic"
+url = "https://modrinth.com/mod/nyfs-spiders"
+
+[oculus]
+name = "Oculus"
+category = "utilities"
+description = "Shaders mod (Iris fork)"
+url = "https://modrinth.com/mod/oculus"
+
+[pehkui]
+name = "Pehkui"
+category = "api"
+url = "https://modrinth.com/mod/pehkui"
+
+[perfect-plushies]
+name = "Perfect Plushies"
+category = "decoration"
+description = "Adds various decorative plushies to Minecraft"
+url = "https://modrinth.com/mod/perfect-plushies"
+
+[ping-wheel]
+name = "Ping Wheel"
+category = "utilities"
+description = "Allows players to temporarily mark locations and entities"
+url = "https://modrinth.com/mod/ping-wheel"
+
+[placebo]
+name = "Placebo"
+category = "api"
+url = "https://www.curseforge.com/minecraft/mc-mods/placebo"
+
+[playeranimator]
+name = "playerAnimator"
+category = "api"
+url = "https://modrinth.com/mod/playeranimator"
+
+[puzzles-lib]
+name = "Puzzles Lib"
+category = "api"
+url = "https://modrinth.com/mod/puzzles-lib"
+
+[quad]
+name = "Quad"
+category = "api"
+url = "https://modrinth.com/mod/quad"
+
+[regions-unexplored]
+name = "Regions Unexplored"
+category = "worldgen"
+description = "Overhauls the overworld and nether in many ways, with 70+ new biomes to explore"
+url = "https://modrinth.com/mod/regions-unexplored"
+
+[resource-pack-overrides]
+name = "Resource Pack Overrides"
+category = "modpack"
+description = "Helper to set default texture packs"
+url = "https://modrinth.com/mod/resource-pack-overrides"
+
+[resourceful-config]
+name = "Resourceful Config"
+category = "api"
+url = "https://modrinth.com/mod/resourceful-config"
+
+[resourceful-lib]
+name = "Resourceful Lib"
+category = "api"
+url = "https://modrinth.com/mod/resourceful-lib"
+
+[saturn]
+name = "Saturn"
+category = "performance"
+description = "Minecraft memory usage optimizations"
+url = "https://modrinth.com/mod/saturn"
+
+[searchables]
+name = "Searchables"
+category = "api"
+url = "https://modrinth.com/mod/searchables"
+
+[serene-seasons]
+name = "Serene Seasons"
+category = "environment"
+description = "Seasons with changing colors, shifting temperatures, and more"
+url = "https://modrinth.com/mod/serene-seasons"
+
+[servercore]
+name = "ServerCore"
+category = "performance"
+description = "Server optimization, also used to nerf some mechanics"
+url = "https://modrinth.com/mod/servercore"
+
+[simple-voice-chat]
+name = "Simple Voice Chat"
+category = "environment"
+description = "A simple proximity voice chat"
+url = "https://modrinth.com/mod/simple-voice-chat"
+
+[simple-voice-radio]
+name = "Simple Voice Radio"
+category = "environment"
+description = "Adds a simple radio you can use to communicate with your friends while far away"
+url = "https://modrinth.com/mod/simple-voice-radio"
+
+[sophisticated-backpacks]
+name = "Sophisticated Backpacks"
+category = "environment"
+description = "Upgradable, placeable, and quite sophisticated backpacks"
+url = "https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks"
+permission = "Compatible license (GPL 3.0)"
+
+[sophisticated-core]
+name = "Sophisticated Core"
+category = "api"
+url = "https://www.curseforge.com/minecraft/mc-mods/sophisticated-core"
+permission = "Compatible license (GPL 3.0)"
+
+[sound-physics-remastered]
+name = "Sound Physics Remastered"
+category = "environment"
+description = "Realistic sound attenuation, reverberation, and absorption through blocks"
+url = "https://modrinth.com/mod/sound-physics-remastered"
+
+[spawn-animations]
+name = "Spawn Animations"
+category = "environment"
+description = "Makes hostile mobs dig out of the ground when they spawn"
+url = "https://modrinth.com/mod/spawn-animations"
+
+[supermartijn642s-core-lib]
+name = "SuperMartijn642's Core Lib"
+category = "api"
+url = "https://modrinth.com/mod/supermartijn642s-core-lib"
+
+[supplementaries]
+name = "Supplementaries"
+category = "decoration"
+description = "A lot of additions to vanilla Minecraft"
+url = "https://modrinth.com/mod/supplementaries"
+
+[terrablender]
+name = "TerraBlender"
+category = "api"
+url = "https://modrinth.com/mod/terrablender"
+
+[terralith]
+name = "Terralith"
+category = "worldgen"
+description = "Adds over 95 brand-new biomes, as well as updating almost every vanilla biome with new and improved features"
+url = "https://modrinth.com/mod/terralith"
+
+[towns-and-towers]
+name = "Towns and Towers"
+category = "worldgen"
+description = "New villages, pillager outposts, and even new ships"
+url = "https://modrinth.com/mod/towns-and-towers"
+
+[village-nullifier]
+name = "Village Nullifier"
+category = "worldgen"
+description = "Disables vanilla villages"
+url = "https://modrinth.com/mod/village-nullifier"
+
+[villager-names-serilum]
+name = "Villager Names"
+category = "villagers"
+description = "Gives all villager entities a default name"
+url = "https://modrinth.com/mod/villager-names-serilum"
+
+[villagersplus]
+name = "VillagersPlus"
+category = "villagers"
+description = "Adds new villager types, trades and beautiful workstations"
+url = "https://modrinth.com/mod/villagersplus"
+
+[vinery]
+name = "Let's Do: Vinery"
+category = "nature"
+description = "Let's do Wine!"
+url = "https://modrinth.com/mod/lets-do-vinery"
+
+[visual-workbench]
+name = "Visual Workbench"
+category = "decoration"
+description = "Items stay inside the crafting tables and are also rendered on top"
+url = "https://modrinth.com/mod/visual-workbench"
+
+[wthit]
+name = "WTHIT"
+category = "utilities"
+description = "Ingame tooltip with information about what block (or fluid) the player is looking at (HWYLA fork (fork of WAILA))"
+url = "https://modrinth.com/mod/wthit"
+
+[xaeros-minimap]
+name = "Xaero's Minimap"
+category = "utilities"
+description = "Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen"
+url = "https://modrinth.com/mod/xaeros-minimap"
+
+[xaeros-world-map]
+name = "Xaero's World Map"
+category = "utilities"
+description = "Adds a full screen world map which shows you what you have explored in the world"
+url = "https://modrinth.com/mod/xaeros-world-map"
+
+[ydms-fennec-fox]
+name = "YDM's Fennec Fox"
+category = "mobs"
+description = "Adds the Fennec fox to the game"
+url = "https://modrinth.com/mod/ydms-fennec-fox"
+
+[ydms-red-panda]
+name = "YDM's Red Panda"
+category = "mobs"
+description = "Adds red pandas to the game"
+url = "https://modrinth.com/mod/ydms-red-panda"
+
+[yungs-api]
+name = "YUNG's API"
+category = "api"
+url = "https://modrinth.com/mod/yungs-api"
+
+[yungs-better-desert-temples]
+name = "YUNG's Better Desert Temples"
+category = "worldgen"
+description = "A complete redesign of Minecraft's desert temples"
+url = "https://modrinth.com/mod/yungs-better-desert-temples"
+
+[yungs-better-dungeons]
+name = "YUNG's Better Dungeons"
+category = "worldgen"
+description = "A complete redesign of Minecraft's dungeons"
+url = "https://modrinth.com/mod/yungs-better-dungeons"
+
+[yungs-better-jungle-temples]
+name = "YUNG's Better Jungle Temples"
+category = "worldgen"
+description = "A complete redesign of Minecraft's jungle temples"
+url = "https://modrinth.com/mod/yungs-better-jungle-temples"
+
+[yungs-better-mineshafts]
+name = "YUNG's Better Mineshafts"
+category = "worldgen"
+description = "A long-awaited and much-needed abandoned mineshaft overhaul"
+url = "https://modrinth.com/mod/yungs-better-mineshafts"
+
+[yungs-better-nether-fortresses]
+name = "YUNG's Better Nether Fortresses"
+category = "worldgen"
+description = "A complete redesign of Minecraft's Nether fortresses"
+url = "https://modrinth.com/mod/yungs-better-nether-fortresses"
+
+[yungs-better-ocean-monuments]
+name = "YUNG's Better Ocean Monuments"
+category = "worldgen"
+description = "A complete redesign of Minecraft's ocean monuments"
+url = "https://modrinth.com/mod/yungs-better-ocean-monuments"
+
+[yungs-better-strongholds]
+name = "YUNG's Better Strongholds"
+category = "worldgen"
+description = "A complete redesign of Minecraft's strongholds"
+url = "https://modrinth.com/mod/yungs-better-strongholds"
+
+[yungs-better-witch-huts]
+name = "YUNG's Better Witch Huts"
+category = "worldgen"
+description = "Adds overhauled witch huts to swamps"
+url = "https://modrinth.com/mod/yungs-better-witch-huts"
+
+[yungs-bridges]
+name = "YUNG's Bridges"
+category = "worldgen"
+description = "Adds beautiful naturally generated bridges throughout the world"
+url = "https://modrinth.com/mod/yungs-bridges"

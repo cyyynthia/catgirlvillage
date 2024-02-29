@@ -1,0 +1,9 @@
+[Unit]
+Description=Catgirl Village Minecraft Server
+After=network.target
+
+[Service]
+User=minecraft
+Group=minecraft
+ExecStart=%h/catgirlvillage/run.sh
+Restart=on-failure

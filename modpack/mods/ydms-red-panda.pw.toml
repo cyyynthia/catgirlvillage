@@ -1,0 +1,13 @@
+name = "YDM's Red Panda"
+filename = "redpanda-forge-1.20.1-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1l7Rzc6k/versions/YBL92l1d/redpanda-forge-1.20.1-1.0.4.jar"
+hash-format = "sha1"
+hash = "2279454c92a24ab76f9003428b16e1b2af6c1110"
+
+[update]
+[update.modrinth]
+mod-id = "1l7Rzc6k"
+version = "YBL92l1d"

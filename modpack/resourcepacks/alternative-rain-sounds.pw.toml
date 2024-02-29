@@ -1,0 +1,13 @@
+name = "Alternative Rain Sounds"
+filename = "Alternative Rain Sounds 1.20-1.20.X.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8f5a3c87f19d525226141cb92656b54b0c189a74"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4606044
+project-id = 858484

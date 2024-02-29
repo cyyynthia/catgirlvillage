@@ -1,0 +1,13 @@
+name = "Nyf's Spiders"
+filename = "nyfsspiders-forge-1.20.1-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dOGM7ccu/versions/p98mV3Xm/nyfsspiders-forge-1.20.1-2.1.1.jar"
+hash-format = "sha1"
+hash = "20783131cc63dec55036ffde84ed72c7e3c648c3"
+
+[update]
+[update.modrinth]
+mod-id = "dOGM7ccu"
+version = "p98mV3Xm"

@@ -1,0 +1,13 @@
+name = "Cherry Background"
+filename = "§d§lCherry Background§r§0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lpWmvxi5/versions/Rwn5n35C/%C2%A7d%C2%A7lCherry%20Background%C2%A7r%C2%A70.zip"
+hash-format = "sha1"
+hash = "e63c5a66f08a25502653f0778a48d5719b4fa71d"
+
+[update]
+[update.modrinth]
+mod-id = "lpWmvxi5"
+version = "Rwn5n35C"

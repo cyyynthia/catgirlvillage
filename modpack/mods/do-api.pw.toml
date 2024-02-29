@@ -1,0 +1,13 @@
+name = "Let's Do: API"
+filename = "doapi-1.2.8-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4XJZeZbM/versions/pyVKVeSf/doapi-1.2.8-forge.jar"
+hash-format = "sha1"
+hash = "846641389941c33d8fef8f7655f012b631b701f4"
+
+[update]
+[update.modrinth]
+mod-id = "4XJZeZbM"
+version = "pyVKVeSf"

@@ -1,0 +1,112 @@
+---
+/*!
+ * Copyright (c) Cynthia Rey, All rights reserved.
+ * SPDX-License-Identifier: MPL-2.0
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ */
+
+import GlobalLayout from '../layouts/GlobalLayout.astro'
+import PrivateWarning from '../components/PrivateWarning.astro'
+import Title from '../components/Title.astro'
+import Subtitle from '../components/Subtitle.astro'
+---
+<GlobalLayout title="Server rules - Catgirl Village">
+	<Title>Rules</Title>
+	<p class="intro">
+		This server has a little set of rules, meant to ensure the server keeps its cute, casual and cottage vibe.
+		They're not here to restrict gameplay, but to keep it fun for everyone!
+	</p>
+
+	<section>
+		<div class="rule">1. Common sense</div>
+		<div class="explainer">
+			This rule shouldn't need much explanation: no cheats, no griefing, no hate, all that stuff. While some
+			limitations are enforced by the modpack and server configuration, not all of them are and there is the
+			expectation that players will be fair and play by the rules.
+		</div>
+	</section>
+
+	<section>
+		<div class="rule">2. Server lore</div>
+		<div class="explainer">
+			The area at spawn has a defined theme and overall vibe; it is mandatory to follow it such that new builds
+			integrate well with the existing ones and to comply with the constraints of the spawn area.
+			Generally, you should always seek approval from other players before going ahead and building things
+			in the spawn region. <br/><br/>
+
+			You're however free to make your own project further away! We ask people to go at least 10km away, to
+			be far away from spawn and give some depth to the railway infrastructure. Once you've installed somewhere,
+			you're free to do absolutely anything you desire. Want a futuristic cyberpunk city? Sure thing.
+		</div>
+	</section>
+
+	<section>
+		<div class="rule">3. Personal regions</div>
+		<div class="explainer">
+			Want to make a cyberpunk futuristic city instead of a medieval/cottagecore one? No problem! People can
+			decide to go far away from spawn and build whatever they desire. These cities should be at least 10km away
+			from the main city, and will be connected via a railway to the main city. <br/><br/>
+
+			When around other's personal regions, players must abide by the rules and play style defined by the region's
+			inhabitants.
+		</div>
+	</section>
+
+	<section>
+		<div class="rule">4. Automation & Create</div>
+		<div class="explainer">
+			Automation is limited on the server. Around spawn, automation is extremely regulated and must be approved
+			beforehand. The only accepted automations are light ones that are well integrated and that are not entirely
+			automatic. <br/><br/>
+
+			Within personal regions limitations are much more light and you can do whatever you want, so long it does
+			not affect other's gameplay. For instance, using an iron farm to build rails used in the main city is not
+			allowed.
+		</div>
+	</section>
+
+	<section>
+		<div class="rule">5. PvP</div>
+		<div class="explainer">
+			PvP is enabled on the server, however this is absolutely not an invitation to attack other players
+			and have an aggressive gameplay for no reason, or as a way to hinder other's progress. You're free to
+			attack players if the lore's evolution leads there, or as a friendly banter, but not without a reason.
+			<br/><br/>
+
+			If it leads to the death of one of the players, the corpse must be left accessible for the player.
+			Looting the corpse without explicit approval from the player is forbidden.
+		</div>
+	</section>
+
+	<Subtitle>Invitations</Subtitle>
+	<PrivateWarning />
+
+	<p>
+		Players on the server are free to invite new players to the server by asking the server administrator about it.
+		The final decision is left to the discretion of the server admin, to let them enter or not.
+	</p>
+	<p>
+		On this server, inviting a player means taking responsibility for them. If a player proves to be troublesome,
+		the inviter will also be held responsible, as they vouched for them.
+	</p>
+</GlobalLayout>
+
+<style>
+	.intro {
+		margin-bottom: 0;
+	}
+
+	.rule {
+		font-size: 1.1rem;
+		font-weight: bold;
+		margin-top: 2rem;
+		margin-bottom: 1rem;
+	}
+
+	section:last-of-type {
+		margin-bottom: 2rem;
+	}
+</style>

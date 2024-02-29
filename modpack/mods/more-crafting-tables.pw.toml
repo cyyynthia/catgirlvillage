@@ -1,0 +1,13 @@
+name = "More Crafting Tables!"
+filename = "[1.20.1] More Crafting Tables 5.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tJGIwFnx/versions/SBwG4Fmh/%5B1.20.1%5D%20More%20Crafting%20Tables%205.1.1.jar"
+hash-format = "sha1"
+hash = "62641ebe2920cdd618c79c1f28c5961f7feb9756"
+
+[update]
+[update.modrinth]
+mod-id = "tJGIwFnx"
+version = "SBwG4Fmh"

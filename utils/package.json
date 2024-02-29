@@ -1,0 +1,6 @@
+{
+	"type": "module",
+	"dependencies": {
+		"smol-toml": "^1.1.4"
+	}
+}

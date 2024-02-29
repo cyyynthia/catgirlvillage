@@ -1,0 +1,13 @@
+name = "No Elytra Firework Boost"
+filename = "no-elytra-firework-boost-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Esd8r4y8/versions/eSEKOoBR/no-elytra-firework-boost-1.0.jar"
+hash-format = "sha1"
+hash = "7d6dc0faa9b9936ec429a4c954f5f36b2c988ae5"
+
+[update]
+[update.modrinth]
+mod-id = "Esd8r4y8"
+version = "eSEKOoBR"

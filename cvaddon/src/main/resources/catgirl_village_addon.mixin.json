@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"compatibilityLevel": "JAVA_17",
+	"package": "dev.cynthia.mcmods.cvaddon.mixin",
+	"refmap": "catgirl_village_addon.refmap.json",
+	"mixins": [
+		"VillagerMixin",
+		"create.BlockBreakingKineticBlockEntityMixin",
+		"create.BlockBreakingMovementBehaviorMixin"
+	]
+}

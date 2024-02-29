@@ -1,0 +1,13 @@
+name = "Ping Wheel"
+filename = "Ping-Wheel-1.7.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QQXAdCzh/versions/CCCaB7dB/Ping-Wheel-1.7.1-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "29349333a557c7ce94be3d3f539494640aab5566"
+
+[update]
+[update.modrinth]
+mod-id = "QQXAdCzh"
+version = "CCCaB7dB"

@@ -1,0 +1,6 @@
+# DISABLE CAVE MAPPING
+allowCaveModeOnServer:false
+allowNetherCaveModeOnServer:true
+
+allowRadarOnServer:true
+registerStatusEffects:true

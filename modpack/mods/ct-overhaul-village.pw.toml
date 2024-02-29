@@ -1,0 +1,14 @@
+name = "ChoiceTheorem's Overhauled Village"
+filename = "[Forge]ctov-3.4.2.jar"
+side = "both"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/fgmhI8kH/versions/SHDgiWhe/%5BForge%5Dctov-3.4.2.jar"
+hash-format = "sha1"
+hash = "962782a5149aecfc19d1357db3112cc90baad252"
+
+[update]
+[update.modrinth]
+mod-id = "fgmhI8kH"
+version = "SHDgiWhe"

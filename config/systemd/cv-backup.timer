@@ -1,0 +1,11 @@
+[Unit]
+Description=Catgirl Village Backup timer
+Requires=cv-minecraft.service
+
+[Timer]
+OnCalendar=*-*-* 23:50:00
+Persistent=true
+AccuracySec=1s
+
+[Install]
+WantedBy=timers.target

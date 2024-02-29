@@ -1,0 +1,13 @@
+name = "Immersive Weathering"
+filename = "immersive_weathering-1.20.1-2.0.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jkskOO9i/versions/f3ttCid9/immersive_weathering-1.20.1-2.0.1-forge.jar"
+hash-format = "sha1"
+hash = "b63082f6415c470336b1e36a37421e8f6a9948fd"
+
+[update]
+[update.modrinth]
+mod-id = "jkskOO9i"
+version = "f3ttCid9"

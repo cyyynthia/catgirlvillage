@@ -1,0 +1,70 @@
+---
+/*!
+ * Copyright (c) Cynthia Rey, All rights reserved.
+ * SPDX-License-Identifier: MPL-2.0
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ */
+
+import marie from '../assets/marie-pixel.png'
+---
+<header>
+	<div class="heading">
+		<img src={marie} alt="Catgirl Village logo" />
+		<div class="server-info">
+			<span class="server-name">Catgirl Village</span>
+			<span class="server-desc">Cutest medieval/cottagecore SMP</span>
+		</div>
+	</div>
+	<nav class='nav'>
+		<a href='/'>About</a>
+		<a href='/modpack'>Modpack</a>
+		<a href='/rules'>Rules</a>
+		<a href='https://dynmap.catgirlvillage.maid.gg'>Dynmap</a>
+		<a href='https://railway.catgirlvillage.maid.gg'>Railway map</a>
+	</nav>
+</header>
+
+<style>
+	header {
+		display: flex;
+		margin-top: 1rem;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.heading {
+		display: flex;
+		align-items: center;
+		gap: 1.5rem;
+	}
+
+	img {
+		height: 4.5rem;
+	}
+
+	.server-info {
+		display: flex;
+		flex-direction: column;
+		gap: 0.25rem;
+	}
+
+	.server-name {
+		font-size: 2rem;
+		font-weight: bold;
+	}
+
+	.server-desc {
+		font-size: 1.25rem;
+	}
+
+	.nav {
+		display: flex;
+		flex-wrap: wrap;
+		margin-top: 1rem;
+		margin-bottom: 2rem;
+		gap: 0.5rem 2rem;
+	}
+</style>

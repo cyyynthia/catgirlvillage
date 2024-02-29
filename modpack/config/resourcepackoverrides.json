@@ -1,0 +1,11 @@
+{
+  "schema_version": "2",
+  "default_packs": [
+    "file/§d§lCherry Background§r§0.zip",
+    "file/UniqueEnchantedBooks_v2.0.3.zip",
+    "file/axolotl_bucket_variants-v15.zip",
+    "file/Better-Leaves-7.2-1.19+.zip",
+    "file/Alternative Rain Sounds 1.20-1.20.X.zip",
+    "bushy_leaves"
+  ]
+}

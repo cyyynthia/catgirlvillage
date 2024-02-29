@@ -1,0 +1,13 @@
+name = "YDM's Fennec Fox"
+filename = "fennecfox-forge-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NIDdwWhd/versions/DycMCGIL/fennecfox-forge-1.20.1-1.0.0.jar"
+hash-format = "sha1"
+hash = "c70d34329b94155effe41b3e3f6a890025a430b3"
+
+[update]
+[update.modrinth]
+mod-id = "NIDdwWhd"
+version = "DycMCGIL"

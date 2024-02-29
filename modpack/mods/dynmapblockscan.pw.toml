@@ -1,0 +1,8 @@
+name = "DynmapBlockScan"
+filename = "DynmapBlockScan-3.7-SNAPSHOT-forge-1.20.jar"
+side = "server"
+
+[download]
+url = "https://mikeprimm.com/dynmap/builds/DynmapBlockScan/DynmapBlockScan-3.7-SNAPSHOT-forge-1.20.jar"
+hash-format = "sha256"
+hash = "5bbd90da43cf782d22ce4201f01a7ce3a1329de3bf700961b724b4ed3120685a"

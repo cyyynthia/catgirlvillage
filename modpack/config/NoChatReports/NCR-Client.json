@@ -1,0 +1,15 @@
+{
+  "showNCRButton": false,
+  "showReloadButton": false,
+  "verifiedIconEnabled": false,
+  "showServerSafety": false,
+  "hideInsecureMessageIndicators": true,
+  "hideModifiedMessageIndicators": true,
+  "hideSystemMessageIndicators": true,
+  "hideWarningToast": true,
+  "hideSigningRequestMessage": true,
+  "alwaysHideReportButton": true,
+  "skipRealmsWarning": false,
+  "disableTelemetry": true,
+  "removeTelemetryButton": true
+}

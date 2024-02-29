@@ -1,0 +1,13 @@
+name = "More Chests Variants (MCV)"
+filename = "MoreChestVariants-1.5.0+1.20.2-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HKKqmr2p/versions/kxCH5vog/MoreChestVariants-1.5.0%2B1.20.2-Forge.jar"
+hash-format = "sha1"
+hash = "423a36811126d5714571350c06739ff495ab954c"
+
+[update]
+[update.modrinth]
+mod-id = "HKKqmr2p"
+version = "kxCH5vog"

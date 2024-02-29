@@ -1,0 +1,13 @@
+name = "Just More Cakes!"
+filename = "JustMoreCakes-forge-1.20.1-1.13.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RW7zragP/versions/4kCA7v62/JustMoreCakes-forge-1.20.1-1.13.1.jar"
+hash-format = "sha1"
+hash = "e5d80d33db492568f1ec23dba4dfd2f410d85ad0"
+
+[update]
+[update.modrinth]
+mod-id = "RW7zragP"
+version = "4kCA7v62"

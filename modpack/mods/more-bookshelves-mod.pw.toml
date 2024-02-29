@@ -1,0 +1,13 @@
+name = "More Bookshelves Mod"
+filename = "FORGE-1.20.1+More-Bookshelves-Mod.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SUbsTPU3/versions/MGTdRvzu/FORGE-1.20.1%2BMore-Bookshelves-Mod.jar"
+hash-format = "sha1"
+hash = "b1a1f3201661bf4c7b51cb90b58bccdc2840252a"
+
+[update]
+[update.modrinth]
+mod-id = "SUbsTPU3"
+version = "MGTdRvzu"

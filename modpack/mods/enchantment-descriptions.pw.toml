@@ -1,0 +1,13 @@
+name = "Enchantment Descriptions"
+filename = "EnchantmentDescriptions-Forge-1.20.1-17.0.14.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UVtY3ZAC/versions/jpf7NOlL/EnchantmentDescriptions-Forge-1.20.1-17.0.14.jar"
+hash-format = "sha1"
+hash = "c588f932dcb7796ad6d334abd43777e718957058"
+
+[update]
+[update.modrinth]
+mod-id = "UVtY3ZAC"
+version = "jpf7NOlL"

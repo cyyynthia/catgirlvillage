@@ -1,0 +1,13 @@
+name = "Corn Delight"
+filename = "corn_delight-1.0.3-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uxLAKWU8/versions/F7Advb7w/corn_delight-1.0.3-1.20.1.jar"
+hash-format = "sha1"
+hash = "0562ab4a90431fb43f2c90a8c29c118ee0c73765"
+
+[update]
+[update.modrinth]
+mod-id = "uxLAKWU8"
+version = "F7Advb7w"

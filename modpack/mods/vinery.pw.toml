@@ -1,0 +1,13 @@
+name = "Let's Do: Vinery"
+filename = "letsdo-vinery-forge-1.4.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1DWmBJVA/versions/AtR2Z6GQ/letsdo-vinery-forge-1.4.9.jar"
+hash-format = "sha1"
+hash = "42deac114451103a3da2dbbc6b9448680c4f21e9"
+
+[update]
+[update.modrinth]
+mod-id = "1DWmBJVA"
+version = "AtR2Z6GQ"

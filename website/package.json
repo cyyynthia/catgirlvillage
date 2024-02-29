@@ -1,0 +1,21 @@
+{
+	"name": "@cyyynthia/catgirlvillage-website",
+	"description": "Website for Catgirl Village",
+	"repository": "git@github.com:cyyynthia/catgirlvillage.git",
+	"author": "Cynthia <cynthia@cynthia.dev>",
+	"license": "MPL-2.0",
+	"private": true,
+	"scripts": {
+		"dev": "astro dev",
+		"build": "astro build",
+		"preview": "astro preview"
+	},
+	"devDependencies": {
+		"@astrojs/ts-plugin": "^1.5.3",
+		"@types/node": "^20.11.19",
+		"astro": "^4.4.0",
+		"sharp": "^0.33.2",
+		"smol-toml": "^1.1.4",
+		"typescript": "^5.3.3"
+	}
+}

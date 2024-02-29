@@ -1,0 +1,13 @@
+name = "Create Deco"
+filename = "createdeco-2.0.1-1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sMvUb4Rb/versions/EcZilZTT/createdeco-2.0.1-1.20.1-forge.jar"
+hash-format = "sha1"
+hash = "eec59db87da77b216e7597a2983d6cdb6c7e723d"
+
+[update]
+[update.modrinth]
+mod-id = "sMvUb4Rb"
+version = "EcZilZTT"

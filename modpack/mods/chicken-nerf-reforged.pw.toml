@@ -1,0 +1,13 @@
+name = "Chicken Nerf Reforged"
+filename = "ChickenNerf-Reforged+1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cdh7ovGn/versions/OubqGpqL/ChickenNerf-Reforged%2B1.20.1-1.0.0.jar"
+hash-format = "sha1"
+hash = "d5f66f200dbc8f478fa6fa003dc1a751c79f445b"
+
+[update]
+[update.modrinth]
+mod-id = "cdh7ovGn"
+version = "OubqGpqL"

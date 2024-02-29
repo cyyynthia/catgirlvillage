@@ -1,0 +1,13 @@
+name = "Wildfire's Female Gender Mod"
+filename = "Female-Gender-Mod-forge-1.20.1-3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bcOsQHnC/versions/R1d8TWqL/Female-Gender-Mod-forge-1.20.1-3.1.jar"
+hash-format = "sha1"
+hash = "aa8a97d2ffafaa56e1813132073bac76db7535ca"
+
+[update]
+[update.modrinth]
+mod-id = "bcOsQHnC"
+version = "R1d8TWqL"
