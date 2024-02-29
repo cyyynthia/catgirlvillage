@@ -14,6 +14,10 @@ ln -s /root/catgirlvillage/config/systemd/cv-minecraft.service /etc/systemd/syst
 ln -s /root/catgirlvillage/config/systemd/cv-backup.service /etc/systemd/system/
 ln -s /root/catgirlvillage/config/systemd/cv-backup.timer /etc/systemd/system/
 
+# Link scripts
+ln /root/catgirlvillage/config/scripts/backup.sh /usr/local/bin/cv-backup
+ln /root/catgirlvillage/config/scripts/backup_with_headsup.sh /usr/local/bin/cv-backup-headsup
+
 # Enable stuff
 systemctl enable cv-minecraft.service
 systemctl enable cv-backup.timer
