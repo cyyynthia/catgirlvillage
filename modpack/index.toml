@@ -58,7 +58,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "407922a0c83f90c8271800cb2eb0d4aab7a6926364f4f8d4bc2006a608309e17"
+hash = "26ff54bf616b2de8ba7baa57b37280e356ea63b8f3c4f0594cb78738ca1a78a1"
 metafile = true
 
 [[files]]
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "9cea176b1719482773db3f628fe497a2037d700273ea1f1d995df92d6d6e01ea"
+hash = "799b44f64564c88bce8dad71e2181b2b57d4338f330fa92e4a2c7865bc5ce362"
 metafile = true
 
 [[files]]
@@ -617,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "493902c502de37691af4888e7196c657e96561287c1999e9894c13607ab19ab8"
+hash = "f975d01001fa5258c3fa39f7631d1e176e37ab3ad3e74287adcc7dbd011bba24"
 metafile = true
 
 [[files]]
