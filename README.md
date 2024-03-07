@@ -143,6 +143,7 @@ Below is the detailed list of the mods included in the modpack.
 - [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite) - Improves performance of internal crafting recipe matching
 - [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) - Improves performance of crafting-related functions
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) - Memory usage optimizations
+- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) - Speed up immediate mode rendering in Minecraft
 - [Krypton Reforged](https://www.curseforge.com/minecraft/mc-mods/krypton-reforged) - Improves networking stack performance (Krypton fork)
 - [Model Gap Fix](https://modrinth.com/mod/modelfix) - Fixes gaps in block models and item models
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports) - Disables chat reporting & telemetry

@@ -392,6 +392,12 @@ description = "Stop boats from gliding at Mach 30 on ice"
 url = "https://www.curseforge.com/minecraft/mc-mods/ice-boat-nerf-reforged"
 permission = "Compatible license (MIT)"
 
+[immediatelyfast]
+name = "ImmediatelyFast"
+category = "performance"
+description = "Speed up immediate mode rendering in Minecraft"
+url = "https://modrinth.com/mod/immediatelyfast"
+
 [immersive-weathering]
 name = "Immersive Weathering"
 category = "environment"
