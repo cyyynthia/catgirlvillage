@@ -1,13 +1,13 @@
 name = "Simple Voice Radio"
-filename = "SimpleRadio-forge-1.20.1-2.1.4.jar"
+filename = "SimpleRadio-forge-1.20.1-2.2.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/S7b8mMXS/versions/UHH4NT4B/SimpleRadio-forge-1.20.1-2.1.4.jar"
+url = "https://cdn.modrinth.com/data/S7b8mMXS/versions/Z5hT0950/SimpleRadio-forge-1.20.1-2.2.4.jar"
 hash-format = "sha1"
-hash = "f43dac4fefdb2146bf3f31b558f75770eddb1b7f"
+hash = "4c184f20aea9cad8f04342eddbeb12030068125c"
 
 [update]
 [update.modrinth]
 mod-id = "S7b8mMXS"
-version = "UHH4NT4B"
+version = "Z5hT0950"

@@ -30,7 +30,6 @@ Below is the detailed list of the mods included in the modpack.
 - [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village) - Enhances and creates new villages and pillager outposts
 - [CTOV - Croptopia compat](https://modrinth.com/mod/ctov-croptopia-compat) - Compatibility add-on for the Croptopia mod and CTOV
 - [Regions Unexplored](https://modrinth.com/mod/regions-unexplored) - Overhauls the overworld and nether in many ways, with 70+ new biomes to explore
-- [Terralith](https://modrinth.com/mod/terralith) - Adds over 95 brand-new biomes, as well as updating almost every vanilla biome with new and improved features
 - [Towns and Towers](https://modrinth.com/mod/towns-and-towers) - New villages, pillager outposts, and even new ships
 - [Village Nullifier](https://modrinth.com/mod/village-nullifier) - Disables vanilla villages
 - [YUNG's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples) - A complete redesign of Minecraft's desert temples
@@ -137,7 +136,6 @@ Below is the detailed list of the mods included in the modpack.
 #### Performance & patches
 - [Alternate Current](https://modrinth.com/mod/alternate-current) - Efficient implementation of redstone dust
 - [AttributeFix](https://modrinth.com/mod/attributefix) - Removes certain limits on the internal attribute system
-- [Canary](https://modrinth.com/mod/canary) - General purpose optimization mod (Lithium fork)
 - [Cull Less Leaves Reforged](https://modrinth.com/mod/cull-less-leaves-reforged) - Render less leaves without sacrificing quality (Cull Less Leaves fork)
 - [Embeddium](https://modrinth.com/mod/embeddium) - Efficient rendering engine (Sodium fork)
 - [Entity Culling](https://modrinth.com/mod/entityculling) - Skips rendering entities that are not visible
@@ -149,7 +147,6 @@ Below is the detailed list of the mods included in the modpack.
 - [Model Gap Fix](https://modrinth.com/mod/modelfix) - Fixes gaps in block models and item models
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports) - Disables chat reporting & telemetry
 - [Saturn](https://modrinth.com/mod/saturn) - Minecraft memory usage optimizations
-- [ServerCore](https://modrinth.com/mod/servercore) - Server optimization, also used to nerf some mechanics
 
 #### Nerfs
 - [Chicken Nerf Reforged](https://modrinth.com/mod/chicken-nerf-reforged) - Chickens don't lay eggs randomly. Breeding produces a random number of eggs
@@ -181,7 +178,6 @@ Below is the detailed list of the mods included in the modpack.
 - [Geckolib](https://modrinth.com/mod/geckolib)
 - [Konkrete](https://modrinth.com/mod/konkrete)
 - [Kotlin for Forge](https://modrinth.com/mod/kotlin-for-forge)
-- [libIPN](https://modrinth.com/mod/libipn)
 - [Lithostitched](https://modrinth.com/mod/lithostitched)
 - [Mysterious Mountain Lib](https://modrinth.com/mod/mmlib)
 - [Moonlight Lib](https://modrinth.com/mod/moonlight)
@@ -208,8 +204,7 @@ Below is the detailed list of the mods included in the modpack.
 - [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode) - A dark-theme for Minecraft's GUI (*not enabled by default*)
 
 ### Shader packs
-- [Complementary Shaders - Unbound](https://modrinth.com/shader/complementary-unbound) comes pre-installed, but is not
-enabled.
+- [Complementary Shaders - Unbound](https://modrinth.com/shader/complementary-unbound) comes pre-installed, but is not enabled.
 
 ### Configuration
 - Vanilla tweaks

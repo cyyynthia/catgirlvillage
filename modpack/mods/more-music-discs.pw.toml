@@ -1,13 +1,13 @@
 name = "More Music Discs"
-filename = "morediscs-1.20.1-32-forge.jar"
+filename = "morediscs-1.20.1-33-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pXYChc1a/versions/iKlv5qvC/morediscs-1.20.1-32-forge.jar"
+url = "https://cdn.modrinth.com/data/pXYChc1a/versions/tugTpNIa/morediscs-1.20.1-33-forge.jar"
 hash-format = "sha1"
-hash = "fc1a929c8ad89927630e98fb664714c96fb5982e"
+hash = "5de980bc18dbf43c9e44e8cd4c10494318d56d43"
 
 [update]
 [update.modrinth]
 mod-id = "pXYChc1a"
-version = "iKlv5qvC"
+version = "tugTpNIa"

@@ -1,12 +1,12 @@
 name = "Catgirl Village's Modpack"
 author = "Cynthia <cynthia@cynthia.dev>"
-version = "0.1.0"
+version = "0.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2bbb15ec6c81174a445dab6026cb3e8f11bf1ceee1d588960adbc3c76db668c5"
+hash = "35c5e88c149e6886c717831012b1c3faef8e057ec7d3aa4cf66c52e172c86fbb"
 
 [versions]
 forge = "47.2.20"

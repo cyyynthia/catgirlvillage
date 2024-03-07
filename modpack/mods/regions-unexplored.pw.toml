@@ -1,13 +1,13 @@
 name = "Regions Unexplored"
-filename = "RegionsUnexploredForge-0.5.4+1.20.1.jar"
+filename = "RegionsUnexploredForge-0.5.5+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Tkikq67H/versions/HwRKKRvX/RegionsUnexploredForge-0.5.4%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/Tkikq67H/versions/Vrzha1ED/RegionsUnexploredForge-0.5.5%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "17b11ce429bf23560b530dacbfcfe1b70e1d587f"
+hash = "6289fdb3cdc411ef63602a7cc6d1a3732b9f0dea"
 
 [update]
 [update.modrinth]
 mod-id = "Tkikq67H"
-version = "HwRKKRvX"
+version = "Vrzha1ED"

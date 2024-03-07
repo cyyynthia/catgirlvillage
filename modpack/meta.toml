@@ -84,12 +84,6 @@ category = "utilities"
 description = "A camera that takes real images of the game, with frames"
 url = "https://modrinth.com/mod/camera-mod"
 
-[canary]
-name = "Canary"
-category = "performance"
-description = "General purpose optimization mod (Lithium fork)"
-url = "https://modrinth.com/mod/canary"
-
 [chefs-delight]
 name = "Chef's Delight"
 category = "villagers"
@@ -445,11 +439,6 @@ description = "Improves networking stack performance (Krypton fork)"
 url = "https://www.curseforge.com/minecraft/mc-mods/krypton-reforged"
 permission = "Compatible license (MIT)"
 
-[libipn]
-name = "libIPN"
-category = "api"
-url = "https://modrinth.com/mod/libipn"
-
 [lithostitched]
 name = "Lithostitched"
 category = "api"
@@ -667,12 +656,6 @@ category = "environment"
 description = "Seasons with changing colors, shifting temperatures, and more"
 url = "https://modrinth.com/mod/serene-seasons"
 
-[servercore]
-name = "ServerCore"
-category = "performance"
-description = "Server optimization, also used to nerf some mechanics"
-url = "https://modrinth.com/mod/servercore"
-
 [simple-voice-chat]
 name = "Simple Voice Chat"
 category = "environment"
@@ -725,12 +708,6 @@ url = "https://modrinth.com/mod/supplementaries"
 name = "TerraBlender"
 category = "api"
 url = "https://modrinth.com/mod/terrablender"
-
-[terralith]
-name = "Terralith"
-category = "worldgen"
-description = "Adds over 95 brand-new biomes, as well as updating almost every vanilla biome with new and improved features"
-url = "https://modrinth.com/mod/terralith"
 
 [towns-and-towers]
 name = "Towns and Towers"
