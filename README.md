@@ -159,7 +159,9 @@ Below is the detailed list of the mods included in the modpack.
 - [DynmapBlockScan](https://github.com/webbukkit/DynmapBlockScan) - Mod compatibility add-on for Dynmap®
 
 #### Modpack management utilities
+- [Chunky](https://modrinth.com/mod/chunky) - Lightweight chunk pregenerator
 - [Resource Pack Overrides](https://modrinth.com/mod/resource-pack-overrides) - Helper to set default texture packs
+- [spark](https://modrinth.com/mod/spark) - Performance profiler for Minecraft clients, servers and proxies
 
 #### API mods
 - [Architectury API](https://modrinth.com/mod/architectury-api)

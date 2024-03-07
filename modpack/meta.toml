@@ -96,6 +96,12 @@ category = "nerfs"
 description = "Chickens don't lay eggs randomly. Breeding produces a random number of eggs"
 url = "https://modrinth.com/mod/chicken-nerf-reforged"
 
+[chunky]
+name = "Chunky"
+category = "modpack"
+description = "Lightweight chunk pregenerator"
+url = "https://modrinth.com/mod/chunky"
+
 [citadel]
 name = "Citadel"
 category = "api"
@@ -686,6 +692,12 @@ name = "Sound Physics Remastered"
 category = "environment"
 description = "Realistic sound attenuation, reverberation, and absorption through blocks"
 url = "https://modrinth.com/mod/sound-physics-remastered"
+
+[spark]
+name = "spark"
+category = "modpack"
+description = "Performance profiler for Minecraft clients, servers and proxies"
+url = "https://modrinth.com/mod/spark"
 
 [spawn-animations]
 name = "Spawn Animations"
