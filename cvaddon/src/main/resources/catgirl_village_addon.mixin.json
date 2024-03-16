@@ -7,6 +7,12 @@
 	"mixins": [
 		"VillagerMixin",
 		"create.BlockBreakingKineticBlockEntityMixin",
-		"create.BlockBreakingMovementBehaviorMixin"
+		"create.BlockBreakingMovementBehaviorMixin",
+		"vinery.AppleLeavesMixin",
+		"vinery.CherryLeavesMixin",
+		"vinery.GrapeBushMixin",
+		"vinery.GrapeVineBlockMixin",
+		"vinery.LatticeBlockMixin",
+		"vinery.PaleStemBlockMixin"
 	]
 }
