@@ -16,7 +16,9 @@ import satisfyu.vinery.block.grape.GrapeVineBlock;
 
 @Mixin(GrapeVineBlock.class)
 public abstract class GrapeVineBlockMixin extends VineBlock {
-	public GrapeVineBlockMixin(Properties props) { super(props); }
+	public GrapeVineBlockMixin(Properties props) {
+		super(props);
+	}
 
 	@Inject(method = "randomTick", at = @At(value = "INVOKE", target = "Lnet/minecraft/world/level/block/state/BlockState;setValue(Lnet/minecraft/world/level/block/state/properties/Property;Ljava/lang/Comparable;)Ljava/lang/Object;"), cancellable = true)
 	public void forgeGrowHandlerPre(BlockState state, ServerLevel world, BlockPos pos, RandomSource random, CallbackInfo ci) {

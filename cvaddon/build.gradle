@@ -90,11 +90,15 @@ dependencies {
 	implementation fg.deobf("maven.modrinth:lets-do-vinery:${vinery_version}")
 	implementation fg.deobf("maven.modrinth:do-api:${do_api_version}")
 	implementation fg.deobf("maven.modrinth:architectury-api:${architectury_api_version}")
+
+	// Perfect Plushies
+	implementation fg.deobf("maven.modrinth:perfect-plushies:${perfect_plushies_version}")
+	implementation fg.deobf("maven.modrinth:geckolib:${geckolib_version}")
 }
 
 mixin {
-	add sourceSets.main, "catgirl_village_addon.refmap.json"
-	config "catgirl_village_addon.mixin.json"
+	add sourceSets.main, "cvaddon.refmap.json"
+	config "cvaddon.mixin.json"
 	debug.verbose = true
 	debug.export = true
 }

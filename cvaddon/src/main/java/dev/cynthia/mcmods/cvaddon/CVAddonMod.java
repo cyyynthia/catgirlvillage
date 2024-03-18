@@ -15,7 +15,7 @@ import org.slf4j.Logger;
 
 @Mod(CVAddonMod.MOD_ID)
 public class CVAddonMod {
-	public static final String MOD_ID = "catgirl_village_addon";
+	public static final String MOD_ID = "cvaddon";
 
 	public static final Logger LOGGER = LogUtils.getLogger();
 }

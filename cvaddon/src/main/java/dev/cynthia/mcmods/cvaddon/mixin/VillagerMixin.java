@@ -20,7 +20,8 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 
 @Mixin(Villager.class)
 public abstract class VillagerMixin {
-	@Shadow public abstract VillagerData getVillagerData();
+	@Shadow
+	public abstract VillagerData getVillagerData();
 
 	@Inject(method = "setVillagerData", at = @At("HEAD"), cancellable = true)
 	public void setVillagerDataMixin(VillagerData newData, CallbackInfo ci) {
