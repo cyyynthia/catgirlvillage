@@ -34,8 +34,6 @@ import java.util.List;
 
 @Mod.EventBusSubscriber(modid = CVAddonMod.MOD_ID, bus = Mod.EventBusSubscriber.Bus.FORGE, value = Dist.CLIENT)
 public class ModpackPlushies {
-	public static final List<RegistryObject<Block>> playerPlushies = new ArrayList<>();
-
 	private static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS, CVAddonMod.MOD_ID);
 	private static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, CVAddonMod.MOD_ID);
 
