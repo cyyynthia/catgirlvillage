@@ -1,6 +1,5 @@
 [Unit]
 Description=Catgirl Village Backup timer
-Requires=cv-minecraft.service
 
 [Timer]
 OnCalendar=*-*-* 23:50:00
