@@ -47,7 +47,9 @@ Below is the detailed list of the mods included in the modpack.
 - [Better Archeology](https://modrinth.com/mod/better-archeology) - Discover artifacts & fossils by encountering new structures
 - [Corpse](https://modrinth.com/mod/corpse) - Never lose your items again
 - [Falling Leaves](https://modrinth.com/mod/fallingleavesforge) - Adds a neat little particle effect to leaf blocks
-- [Immersive Weathering](https://modrinth.com/mod/immersive-weathering) - An abundance of new natural systems to make your world feel more alive than ever.
+- [Hourglass](https://modrinth.com/mod/hourglass) - Beds accelerate the passage of time smoothly until daytime. Custom day and night lengths
+- [Immersive Snow](https://modrinth.com/mod/immersive-snow) - Small tweaks that add to Minecraft's Winter theme. Intended for use with a season mod
+- [Immersive Weathering](https://modrinth.com/mod/immersive-weathering) - An abundance of new natural systems to make your world feel more alive than ever
 - [Serene Seasons](https://modrinth.com/mod/serene-seasons) - Seasons with changing colors, shifting temperatures, and more
 - [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) - A simple proximity voice chat
 - [Simple Voice Radio](https://modrinth.com/mod/simple-voice-radio) - Adds a simple radio you can use to communicate with your friends while far away
@@ -58,6 +60,7 @@ Below is the detailed list of the mods included in the modpack.
 #### Villagers
 - [Chef's Delight](https://modrinth.com/mod/chefs-delight) - Farmer's Delight addon adding 2 new professions to villagers
 - [Guard Villagers](https://modrinth.com/mod/guard-villagers) - Adds guards and some villager AI changes improving their collaboration
+- [Liberty's Villagers](https://modrinth.com/mod/libertyvillagers) - Quality of Life improvements for Villagers
 - [Villager Names](https://modrinth.com/mod/villager-names-serilum) - Gives all villager entities a default name
 - [VillagersPlus](https://modrinth.com/mod/villagersplus) - Adds new villager types, trades and beautiful workstations
 
@@ -95,6 +98,7 @@ Below is the detailed list of the mods included in the modpack.
 - [Advancement Frames](https://modrinth.com/mod/advancement-frames) - Nice looking Plaques to display your Advancements
 - [amendments](https://modrinth.com/mod/amendments) - Many changes to vanilla blocks (formerly part of Supplementaries)
 - [Beautify!](https://modrinth.com/mod/beautify) - Adds lots of vanilla-styled ways to spice up your builds
+- [Cake Chomps](https://modrinth.com/mod/cake-chomps) - Adds sound and crumb particles when you eat cake
 - [Comforts](https://modrinth.com/mod/comforts) - Adds sleeping bags for portability without setting new spawns & more
 - [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) - Allows displaying a different armor than the one worn (Cosmetic Armor fork)
 - [Create Deco](https://modrinth.com/mod/create-deco) - Industrial decoration themed around the aesthetics of the Create mod
@@ -102,11 +106,13 @@ Below is the detailed list of the mods included in the modpack.
 - [Emotecraft](https://modrinth.com/mod/emotecraft) - Adds emotes to the game, letting you express yourself through your ingame character
 - [Every Compat (Wood Good)](https://modrinth.com/mod/every-compat) - Universal wood compatibility
 - [Wildfire's Female Gender Mod](https://modrinth.com/mod/female-gender) - Extra player model customization options, including a unique feature that adds a personalized touch to your avatar
+- [Highlight](https://modrinth.com/mod/highlight) - Changes the visualization of specific blocks in the game to have more aligned selections to their models
 - [Just More Cakes!](https://modrinth.com/mod/just-more-cakes) - Adds 30 new flavors of cake along with new improvements and mechanics for a better cake experience
 - [Macaw's Doors](https://modrinth.com/mod/macaws-doors) - Adds vanilla doors with every wood color and new unique doors
 - [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls) - Adds new vanilla styled fences, walls and gates
 - [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture) - Adds a lot of furniture to the game
 - [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps) - Adds vanilla styled lamps, torches, streetlamps, paper lamps, wall lamps, slabs...
+- [Macaw's Paintings](https://modrinth.com/mod/macaws-paintings) - Adds custom drawn paintings to fit in your world
 - [Macaw's Trapdoors](https://modrinth.com/mod/macaws-trapdoors) - Adds vanila trapdoors in every plank variation, plus some new trapdoors
 - [Macaw's Windows](https://modrinth.com/mod/macaws-windows) - Adds lots of windows & related props to the game
 - [More Bookshelves Mod](https://modrinth.com/mod/more-bookshelves-mod) - Bookshelves for every wood in the game
@@ -114,15 +120,19 @@ Below is the detailed list of the mods included in the modpack.
 - [More Crafting Tables!](https://modrinth.com/mod/more-crafting-tables) - Make your crafting table no longer ruin your decoration
 - [More Music Discs](https://modrinth.com/mod/more-music-discs) - Adds more music discs
 - [Music Maker Mod](https://modrinth.com/mod/music-maker-mod) - Adds music sheets, instruments and other devices to the game for creating and playing music
+- [Not Enough Animations](https://modrinth.com/mod/not-enough-animations) - Bringing first-person animations to the third-person
 - [Perfect Plushies](https://modrinth.com/mod/perfect-plushies) - Adds various decorative plushies to Minecraft
+- [Seamless](https://modrinth.com/mod/seamless) - Connected outlines for Double Blocks like Beds and Doors
 - [Supplementaries](https://modrinth.com/mod/supplementaries) - A lot of additions to vanilla Minecraft
 - [Visual Workbench](https://modrinth.com/mod/visual-workbench) - Items stay inside the crafting tables and are also rendered on top
 
 #### Miscellaneous & utilities
 - [AppleSkin](https://modrinth.com/mod/appleskin) - Food/hunger-related HUD improvements
+- [Better Advancements](https://modrinth.com/mod/better-advancements) - Improves the UI/UX of Minecraft advancements system
 - [Camera Mod](https://modrinth.com/mod/camera-mod) - A camera that takes real images of the game, with frames
 - [Controlling](https://modrinth.com/mod/controlling) - Adds a search bar to the Key-Bindings menu
 - [Curios API](https://modrinth.com/mod/curios) - Adds new slots to the inventory
+- [Effect Descriptions](https://modrinth.com/mod/effect-descriptions) - Find out what potion effects do without checking the wiki
 - [Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions) - Provides a way to get enchantment descriptions from enchanted books
 - [Just Enough Items](https://modrinth.com/mod/jei) - Item and recipe viewer
 - [Just Zoom](https://modrinth.com/mod/just-zoom) - Simple zoom mod with mouse wheel support to zoom in and out further
@@ -135,19 +145,25 @@ Below is the detailed list of the mods included in the modpack.
 
 #### Performance & patches
 - [Alternate Current](https://modrinth.com/mod/alternate-current) - Efficient implementation of redstone dust
+- [Async Locator](https://modrinth.com/mod/async-locator) - Changes the searching of features to be asynchronous to mitigate associated lag
 - [AttributeFix](https://modrinth.com/mod/attributefix) - Removes certain limits on the internal attribute system
+- [BadOptimizations](https://modrinth.com/mod/badoptimizations) - Optimization mod that focuses on things other than rendering
 - [Cull Less Leaves Reforged](https://modrinth.com/mod/cull-less-leaves-reforged) - Render less leaves without sacrificing quality (Cull Less Leaves fork)
 - [Embeddium](https://modrinth.com/mod/embeddium) - Efficient rendering engine (Sodium fork)
 - [Entity Culling](https://modrinth.com/mod/entityculling) - Skips rendering entities that are not visible
+- [Fast Paintings](https://modrinth.com/mod/fast-paintings) - Fixes painting rendering, increasing their performance and allowing them to have custom models
 - [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) - Improves performance of the furnace & variants
 - [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite) - Improves performance of internal crafting recipe matching
 - [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) - Improves performance of crafting-related functions
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) - Memory usage optimizations
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) - Speed up immediate mode rendering in Minecraft
 - [Krypton Reforged](https://www.curseforge.com/minecraft/mc-mods/krypton-reforged) - Improves networking stack performance (Krypton fork)
+- [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) - Fixes random memory leaks for both the client and server
 - [Model Gap Fix](https://modrinth.com/mod/modelfix) - Fixes gaps in block models and item models
+- [Not Enough Recipe Book [NERB]](https://modrinth.com/mod/nerb) - Completely removes recipe book from the game, optimizing player data
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports) - Disables chat reporting & telemetry
 - [Saturn](https://modrinth.com/mod/saturn) - Minecraft memory usage optimizations
+- [ServerCore](https://modrinth.com/mod/servercore) - A mod that aims to optimize the minecraft server
 
 #### Nerfs
 - [Chicken Nerf Reforged](https://modrinth.com/mod/chicken-nerf-reforged) - Chickens don't lay eggs randomly. Breeding produces a random number of eggs
@@ -155,12 +171,13 @@ Below is the detailed list of the mods included in the modpack.
 - [No Elytra Firework Boost](https://modrinth.com/mod/no-elytra-firework-boost) - Disables elytra firework boosting
 
 #### Server specific
-- [Create Track Map](https://modrinth.com/mod/create-track-map) - A web-based realtime track map of the world's Create train system.
+- [Create Track Map](https://modrinth.com/mod/create-track-map) - A web-based realtime track map of the world's Create train system
 - [Dynmap®](https://modrinth.com/plugin/dynmap) - A Google Maps-like map that can be viewed in a browser
 - [DynmapBlockScan](https://github.com/webbukkit/DynmapBlockScan) - Mod compatibility add-on for Dynmap®
 
 #### Modpack management utilities
 - [Chunky](https://modrinth.com/mod/chunky) - Lightweight chunk pregenerator
+- [CraftTweaker](https://modrinth.com/mod/crafttweaker) - Utility mod to tweak the game's recipes and more through a scripting system
 - [Resource Pack Overrides](https://modrinth.com/mod/resource-pack-overrides) - Helper to set default texture packs
 - [spark](https://modrinth.com/mod/spark) - Performance profiler for Minecraft clients, servers and proxies
 
@@ -170,6 +187,7 @@ Below is the detailed list of the mods included in the modpack.
 - [bad packets](https://modrinth.com/mod/badpackets)
 - [Bookshelf](https://modrinth.com/mod/bookshelf-lib)
 - [Citadel](https://modrinth.com/mod/citadel)
+- [Cloth Config API](https://modrinth.com/mod/cloth-config)
 - [Collective](https://modrinth.com/mod/collective)
 - [Connected Glass](https://modrinth.com/mod/connected-glass)
 - [CreativeCore](https://modrinth.com/mod/creativecore)
@@ -210,6 +228,8 @@ Below is the detailed list of the mods included in the modpack.
 - [Complementary Shaders - Unbound](https://modrinth.com/shader/complementary-unbound) comes pre-installed, but is not enabled.
 
 ### Configuration
+TODO: update section
+
 - Vanilla tweaks
 	- Villagers cannot lose their jobs, including if you never did a trade (*via CVAddon*)
 	- Breeding can no longer happen in areas that are considered too crowded
@@ -251,6 +271,9 @@ respective owners and are redistributed in compliance with applicable terms.
 - https://www.curseforge.com/minecraft/mc-mods/fastworkbench: Compatible license (MIT)
 - https://www.curseforge.com/minecraft/mc-mods/krypton-reforged: Compatible license (MIT)
 - https://www.curseforge.com/minecraft/mc-mods/ice-boat-nerf-reforged: Compatible license (MIT)
+- https://www.curseforge.com/minecraft/mc-mods/epherolib: Compatible license (LGPL 3.0)
+- https://www.curseforge.com/minecraft/mc-mods/forge-cit: Compatible license (LGPL 3.0)
+- https://www.curseforge.com/minecraft/mc-mods/placebo: Compatible license (MIT)
 - https://www.curseforge.com/minecraft/mc-mods/sophisticated-core: Compatible license (GPL 3.0)
 <!-- GENERATED PERMISSION LIST END -->
 - https://github.com/webbukkit/DynmapBlockScan: Compatible license (Apache 2.0)

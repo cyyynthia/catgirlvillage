@@ -39,6 +39,12 @@ name = "Architectury API"
 category = "api"
 url = "https://modrinth.com/mod/architectury-api"
 
+[async-locator]
+name = "Async Locator"
+category = "performance"
+description = "Changes the searching of features to be asynchronous to mitigate associated lag"
+url = "https://modrinth.com/mod/async-locator"
+
 [attributefix]
 name = "AttributeFix"
 category = "performance"
@@ -49,6 +55,12 @@ url = "https://modrinth.com/mod/attributefix"
 name = "AzureLib"
 category = "api"
 url = "https://modrinth.com/mod/azurelib"
+
+[badoptimizations]
+name = "BadOptimizations"
+category = "performance"
+description = "Optimization mod that focuses on things other than rendering"
+url = "https://modrinth.com/mod/badoptimizations"
 
 [badpackets]
 name = "bad packets"
@@ -67,6 +79,12 @@ category = "create"
 description = "Additions and adornments for the modern Create engineer"
 url = "https://modrinth.com/mod/bellsandwhistles"
 
+[better-advancements]
+name = "Better Advancements"
+category = "utilities"
+description = "Improves the UI/UX of Minecraft advancements system"
+url = "https://modrinth.com/mod/better-advancements"
+
 [better-archeology]
 name = "Better Archeology"
 category = "environment"
@@ -77,6 +95,12 @@ url = "https://modrinth.com/mod/better-archeology"
 name = "Bookshelf"
 category = "api"
 url = "https://modrinth.com/mod/bookshelf-lib"
+
+[cake-chomps]
+name = "Cake Chomps"
+category = "decoration"
+description = "Adds sound and crumb particles when you eat cake"
+url = "https://modrinth.com/mod/cake-chomps"
 
 [camera-mod]
 name = "Camera Mod"
@@ -106,6 +130,11 @@ url = "https://modrinth.com/mod/chunky"
 name = "Citadel"
 category = "api"
 url = "https://modrinth.com/mod/citadel"
+
+[cloth-config]
+name = "Cloth Config API"
+category = "api"
+url = "https://modrinth.com/mod/cloth-config"
 
 [collective]
 name = "Collective"
@@ -154,6 +183,12 @@ category = "nature"
 description = "Introduces more seafood into the game, including crabs, shrimps, and clams"
 url = "https://modrinth.com/mod/crabbers-delight"
 
+[crafttweaker]
+name = "CraftTweaker"
+category = "modpack"
+description = "Utility mod to tweak the game's recipes and more through a scripting system"
+url = "https://modrinth.com/mod/crafttweaker"
+
 [crate-delight]
 name = "Crate Delight"
 category = "nature"
@@ -187,7 +222,7 @@ url = "https://modrinth.com/mod/create-structures"
 [create-track-map]
 name = "Create Track Map"
 category = "server"
-description = "A web-based realtime track map of the world's Create train system."
+description = "A web-based realtime track map of the world's Create train system"
 url = "https://modrinth.com/mod/create-track-map"
 
 [creativecore]
@@ -272,6 +307,12 @@ category = "server"
 description = "Mod compatibility add-on for Dynmap®"
 url = "https://github.com/webbukkit/DynmapBlockScan"
 
+[effect-descriptions]
+name = "Effect Descriptions"
+category = "utilities"
+description = "Find out what potion effects do without checking the wiki"
+url = "https://modrinth.com/mod/effect-descriptions"
+
 [embeddium]
 name = "Embeddium"
 category = "performance"
@@ -306,6 +347,7 @@ url = "https://modrinth.com/mod/entityculling"
 name = "EpheroLib"
 category = "api"
 url = "https://www.curseforge.com/minecraft/mc-mods/epherolib"
+permission = "Compatible license (LGPL 3.0)"
 
 [every-compat]
 name = "Every Compat (Wood Good)"
@@ -324,6 +366,12 @@ name = "Farmer's Delight"
 category = "nature"
 description = "A cozy expansion to farming and cooking"
 url = "https://modrinth.com/mod/farmers-delight"
+
+[fast-paintings]
+name = "Fast Paintings"
+category = "performance"
+description = "Fixes painting rendering, increasing their performance and allowing them to have custom models"
+url = "https://modrinth.com/mod/fast-paintings"
 
 [fastfurnace]
 name = "FastFurnace"
@@ -362,6 +410,7 @@ url = "https://modrinth.com/mod/ferrite-core"
 name = "Forge CIT"
 category = "api"
 url = "https://www.curseforge.com/minecraft/mc-mods/forge-cit"
+permission = "Compatible license (LGPL 3.0)"
 
 [friends-and-foes-forge]
 name = "Friends & Foes"
@@ -385,6 +434,18 @@ category = "villagers"
 description = "Adds guards and some villager AI changes improving their collaboration"
 url = "https://modrinth.com/mod/guard-villagers"
 
+[highlight]
+name = "Highlight"
+category = "decoration"
+description = "Changes the visualization of specific blocks in the game to have more aligned selections to their models"
+url = "https://modrinth.com/mod/highlight"
+
+[hourglass]
+name = "Hourglass"
+category = "environment"
+description = "Beds accelerate the passage of time smoothly until daytime. Custom day and night lengths"
+url = "https://modrinth.com/mod/hourglass"
+
 [ice-boat-nerf-reforged]
 name = "Ice Boat Nerf - Reforged"
 category = "nerfs"
@@ -398,10 +459,16 @@ category = "performance"
 description = "Speed up immediate mode rendering in Minecraft"
 url = "https://modrinth.com/mod/immediatelyfast"
 
+[immersive-snow]
+name = "Immersive Snow"
+category = "environment"
+description = "Small tweaks that add to Minecraft's Winter theme. Intended for use with a season mod"
+url = "https://modrinth.com/mod/immersive-snow"
+
 [immersive-weathering]
 name = "Immersive Weathering"
 category = "environment"
-description = "An abundance of new natural systems to make your world feel more alive than ever."
+description = "An abundance of new natural systems to make your world feel more alive than ever"
 url = "https://modrinth.com/mod/immersive-weathering"
 
 [interiors]
@@ -451,6 +518,12 @@ description = "Improves networking stack performance (Krypton fork)"
 url = "https://www.curseforge.com/minecraft/mc-mods/krypton-reforged"
 permission = "Compatible license (MIT)"
 
+[libertyvillagers]
+name = "Liberty's Villagers"
+category = "villagers"
+description = "Quality of Life improvements for Villagers"
+url = "https://modrinth.com/mod/libertyvillagers"
+
 [lithostitched]
 name = "Lithostitched"
 category = "api"
@@ -480,6 +553,12 @@ category = "decoration"
 description = "Adds vanilla styled lamps, torches, streetlamps, paper lamps, wall lamps, slabs..."
 url = "https://modrinth.com/mod/macaws-lights-and-lamps"
 
+[macaws-paintings]
+name = "Macaw's Paintings"
+category = "decoration"
+description = "Adds custom drawn paintings to fit in your world"
+url = "https://modrinth.com/mod/macaws-paintings"
+
 [macaws-trapdoors]
 name = "Macaw's Trapdoors"
 category = "decoration"
@@ -497,6 +576,12 @@ name = "Measurements"
 category = "utilities"
 description = "Allows measuring distance using a tape measure"
 url = "https://modrinth.com/mod/measurements"
+
+[memoryleakfix]
+name = "Memory Leak Fix"
+category = "performance"
+description = "Fixes random memory leaks for both the client and server"
+url = "https://modrinth.com/mod/memoryleakfix"
 
 [mmlib]
 name = "Mysterious Mountain Lib"
@@ -568,6 +653,12 @@ category = "mobs"
 description = "Adds new immersive wildlife with realistic behavior"
 url = "https://modrinth.com/mod/naturalist"
 
+[nerb]
+name = "Not Enough Recipe Book [NERB]"
+category = "performance"
+description = "Completely removes recipe book from the game, optimizing player data"
+url = "https://modrinth.com/mod/nerb"
+
 [no-chat-reports]
 name = "No Chat Reports"
 category = "performance"
@@ -579,6 +670,12 @@ name = "No Elytra Firework Boost"
 category = "nerfs"
 description = "Disables elytra firework boosting"
 url = "https://modrinth.com/mod/no-elytra-firework-boost"
+
+[not-enough-animations]
+name = "Not Enough Animations"
+category = "decoration"
+description = "Bringing first-person animations to the third-person"
+url = "https://modrinth.com/mod/not-enough-animations"
 
 [nyfs-spiders]
 name = "Nyf's Spiders"
@@ -613,6 +710,7 @@ url = "https://modrinth.com/mod/ping-wheel"
 name = "Placebo"
 category = "api"
 url = "https://www.curseforge.com/minecraft/mc-mods/placebo"
+permission = "Compatible license (MIT)"
 
 [playeranimator]
 name = "playerAnimator"
@@ -657,6 +755,12 @@ category = "performance"
 description = "Minecraft memory usage optimizations"
 url = "https://modrinth.com/mod/saturn"
 
+[seamless]
+name = "Seamless"
+category = "decoration"
+description = "Connected outlines for Double Blocks like Beds and Doors"
+url = "https://modrinth.com/mod/seamless"
+
 [searchables]
 name = "Searchables"
 category = "api"
@@ -667,6 +771,12 @@ name = "Serene Seasons"
 category = "environment"
 description = "Seasons with changing colors, shifting temperatures, and more"
 url = "https://modrinth.com/mod/serene-seasons"
+
+[servercore]
+name = "ServerCore"
+category = "performance"
+description = "A mod that aims to optimize the minecraft server"
+url = "https://modrinth.com/mod/servercore"
 
 [simple-voice-chat]
 name = "Simple Voice Chat"
