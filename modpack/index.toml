@@ -907,12 +907,20 @@ hash = "a134cefb5144343e8ea8b3a3c5976cae4ffb7103913db76ecd5c4016d8abaa96"
 metafile = true
 
 [[files]]
-file = "scripts/crate_conflicts.zs"
-hash = "d6b94868fc5ea8dc87ceceeabb05c416438bf00d4889fa2ed6f343f55f52faba"
+file = "scripts/conflicts.zs"
+hash = "8c6ccda0ea5892f0dfde30982b4f873afcdb759620886a46609dc0566431d871"
 
 [[files]]
 file = "scripts/crops_fertility.zs"
 hash = "d13c113e5014a66bf311f85740a323a10fe3f2b532c353d945b7c20c0587ec98"
+
+[[files]]
+file = "scripts/disable_broken_hedges.zs"
+hash = "01daea0bd66e55fe6c57142c063afaa54ed966d1f0edaa527c938339c25cc4d4"
+
+[[files]]
+file = "scripts/modded_wood_crafts.zs"
+hash = "c158fbe19c03d50cae0dd67180d7829a8ac46d0adda3d02a0596c5d5b34d012b"
 
 [[files]]
 file = "scripts/no_weeds.zs"
