@@ -1,6 +1,7 @@
 name = "Let's Do: API"
 filename = "doapi-1.2.8-forge.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/4XJZeZbM/versions/pyVKVeSf/doapi-1.2.8-forge.jar"

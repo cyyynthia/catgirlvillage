@@ -1,4 +1,3 @@
-
 # Lets you enable / disable certain features and modify them.
 [features]
 	# (Default = false) Stops the server from loading spawn chunks.
@@ -54,11 +53,11 @@
 	# (Default = false) Enables this feature.
 	enabled = true
 	# (Default = [Villager: 24, Animals: 32]) Maximum count before stopping entities of the same type from breeding.
-	villager_count = 64
-	animal_count = 256
+	villager_count = 24
+	animal_count = 32
 	# (Default = [Villager: 64, Animals: 64]) The range it will check for entities of the same type.
 	villager_range = 64
-	animal_range = 32
+	animal_range = 64
 
 # Allows you to toggle specific optimizations that don't have full vanilla parity.
 # These settings will only take effect after server restarts.

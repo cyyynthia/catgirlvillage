@@ -1,13 +1,13 @@
 name = "Every Compat (Wood Good)"
-filename = "everycomp-1.20-2.6.35.jar"
+filename = "everycomp-1.20-2.6.37.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/eiktJyw1/versions/l7YRRICv/everycomp-1.20-2.6.35.jar"
+url = "https://cdn.modrinth.com/data/eiktJyw1/versions/JNIYHmnq/everycomp-1.20-2.6.37.jar"
 hash-format = "sha1"
-hash = "146bd2a6c5ae91fd92a9f56cfeadaf47a0e9551e"
+hash = "5ded75681413c2cef57c1182f5b463a5c533273b"
 
 [update]
 [update.modrinth]
 mod-id = "eiktJyw1"
-version = "l7YRRICv"
+version = "JNIYHmnq"

@@ -1,0 +1,13 @@
+name = "Macaw's Paintings"
+filename = "mcw-paintings-1.0.5-1.20.1forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/okE6QVAY/versions/yaSdsps0/mcw-paintings-1.0.5-1.20.1forge.jar"
+hash-format = "sha1"
+hash = "47455c48ff84c0ba42936a95a1bb3709689e24cf"
+
+[update]
+[update.modrinth]
+mod-id = "okE6QVAY"
+version = "yaSdsps0"
