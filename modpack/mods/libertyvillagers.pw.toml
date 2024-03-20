@@ -1,6 +1,6 @@
 name = "Liberty's Villagers"
 filename = "libertyvillagers-2.0.0+forge+1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/264clomZ/versions/pLlC13lB/libertyvillagers-2.0.0%2Bforge%2B1.20.1.jar"

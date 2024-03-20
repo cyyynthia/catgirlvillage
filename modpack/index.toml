@@ -289,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/cvaddon-0.2.0.jar"
-hash = "7312ca2112f1add33d621b6df620f6305bda61f82bc21f8f8a32d93d4d0bccfc"
+hash = "4a01dba82b4b628def014b4617cbe52fcc119d31034eb8d3a9d4ca184ff96ddd"
 
 [[files]]
 file = "mods/do-api.pw.toml"
@@ -498,7 +498,7 @@ metafile = true
 
 [[files]]
 file = "mods/libertyvillagers.pw.toml"
-hash = "b079fcced6c23f316b5cc493d6d9257142d8f4cda744f1d453d7dc4f26aef4e4"
+hash = "a7d9465a3edd2b13f8cafe716c9dbb4c56c6d2b79aa42fae0eff078d1d89361e"
 metafile = true
 
 [[files]]
